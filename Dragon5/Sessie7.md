@@ -1,4 +1,4 @@
-﻿# 🎭 Sessie 7 — Het Winterbal van Greyhawk
+# 🎭 Sessie 7 — Het Winterbal van Greyhawk
 
 ---
 
@@ -863,6 +863,155 @@ Wanneer minstens twee massa's elkaar raken, **of** spelers ze 2 rondes negeren:
 
 ---
 
+## CHAPTER VIII — Het Collectief
+
+### Samenvatting
+
+Het Blubbercollectief is volledig gevormd. De balzaal is half ontruimd — gasten vluchten naar de uitgang, wachters staan verstijfd of trekken zich terug. De spelers staan vrijwel alleen tegenover het wezen. Geen publiek meer. Geen maskers meer.
+
+*Dit is geen verrassingsaanval. Het Collectief weet dat het verliest als dit gevecht begint. Maar het heeft geen keuze meer. En dat maakt het gevaarlijk.*
+
+---
+
+### De Ruimte
+
+> Kristallen schilden de vloer. Omgekantelde tafels vormen versperringen. Kaarsen zijn gevallen — op twee plekken smeult tapijt. Vanuit de zijgangen klinken schreeuwen en rennende voetstappen.
+>
+> Het Collectief vult het midden van de dansvloer. Geen duidelijke romp. Geen ledematen die je verwacht. Alleen een massa die uitdijt en samentrekt. Oppervlakken worden glad en dan gerimpeld. Hier en daar bolt iets op — niet willekeurig, maar als iemand van binnenuit naar buiten wil.
+>
+> Gezichten. Niet lang. Maar even.
+
+Wijs de spelers op:
+- **Twee smeulenende gordijnen** (links, bij de haard): kunnen brand worden als niemand ze uittrapt.
+- **Een half omgevallen kroonluchter** (boven het centrum): hangt aan één ketting.
+- **Gemorste wijn en olie** (rondom de hoofdtafel): moeilijk terrein, 15-foot straal.
+- **Drie achtergebleven wachters** (bij de uitgang): verlamd van schrik — helpen niet, maar blokkeren de route.
+
+---
+
+### Het Gevecht
+
+**Statblock:** zie [Blubbercollectief.md](../monsters/Blubbercollectief.md)
+
+**Basisgegevens:**
+- **AC** 13 | **HP** 136 *(+20 per niet-vernietigde Vleesamassa die erin is opgegaan)*
+- **Truesight** 30 ft. — het kan niet worden misleid door vermomming of illusie.
+- **Resistentie** tegen niet-magische aanvallen *(bludgeoning, piercing, slashing)*.
+- **Zwakheid:** vuur en zuur werken normaal — geen resistentie.
+
+---
+
+### Ronde-voor-ronde richting
+
+**Ronde 1 — De Eerste Beweging**
+
+Het Collectief beweegt niet meteen aanvallend. Het dijt uit naar het centrum van de zaal en spreekt:
+
+> *"Jullie… begrijpen het niet."*
+>
+> Meerdere stemmen tegelijk. De Stadhouder. De Generaal. Vrouwe Linde. Bard Willem. Allemaal door elkaar.
+>
+> *"Wij wilden niets kapotmaken."*
+
+Gebruik hier **Meerdere Gezichten**: alle spelers binnen 30 ft. horen vertrouwde stemmen. **Wisdom saving throw DC 13** of frightened tot einde volgende beurt.
+
+*Doel van ronde 1: spelers laten voelen dat het wezen bewust is, niet puur beestachtig.*
+
+---
+
+**Ronde 2 — Eerste Aanval**
+
+Het Collectief richt zich op de dichtstbijzijnde speler met **Vleesgreep** (reach 10 ft., +8 to hit, 2d8+5 bludgeoning). Als een speler gegrepend raakt:
+
+> Waar de grijpende massa je vasthoudt, voelt het warm aan — niet als een monster, maar als een omhelzing. En dan harder.
+
+Gebruik **Gezichtsovername** op de gegrepende speler: **Wisdom save DC 14** of 6d6 psychic damage + frightened. Het Collectief herstelt HP gelijk aan de helft van de uitgedeelde psychische schade.
+
+---
+
+**Ronde 3 — Identiteitsmantel**
+
+Wanneer een speler een aanval uitvoert: gebruik **Identiteitsmantel** als reactie. Het Collectief neemt het gezicht aan van iemand die de aanvaller kent.
+
+> Voor een moment — één moment — ziet de fighter het gezicht van iemand die hij kent. De ogen kijken hem aan. De stem zegt zijn naam.
+
+**Wisdom save DC 13** of disadvantage op de aanval. Daarna verdwijnt het gezicht.
+
+*Laat de spelers zelf invullen wie ze zien. Vraag het. "Wiens gezicht verschijnt?"*
+
+---
+
+**Ronde 4 — Massa-Absorptie (Recharge 5–6)**
+
+Als de charge actief is:
+
+> Het wezen zwelt op. Het oppervlak klontert samen. En dan explodeert het naar buiten in een golf van vlees.
+
+**15-foot kegel**, **Strength save DC 14** of restrained tot einde volgende beurt. Gegrepende spelers hebben disadvantage op de save.
+
+---
+
+**Omgevingsgevaren** *(kies één per ronde of op kritieke momenten):*
+
+| Gevaar | Trigger | Effect |
+|---|---|---|
+| Kroonluchter valt | Kritieke treffer of zware AOE | DC 12 Dex save, 3d6 bludgeoning + Prone in 10-foot straal |
+| Brand verspreidt | Gordijnen worden geraakt of genegeerd | Extra 5-foot straal vuur per ronde; DC 13 Dex save of 1d6 fire |
+| Olieplas | Bewegen door gemarkeerde zone | Moeilijk terrein; bij vallen → glijden 5 ft. extra |
+| Instabiele fundering | Zware klap of melee-klap van Collectief | DC 12 Dex save, Prone voor iedereen in 10-foot straal |
+
+---
+
+### Het Wezen Spreekt
+
+Verspreid door het gevecht, gebruik deze regels op dramatische momenten — niet te veel:
+
+> *"Wij hadden namen. Wij hadden gezichten. Jullie nemen dat terug."*
+
+> *"Dit kasteel… heeft altijd iets ouders in zich gedragen. Wij voelden het. Dat is alles wat wij wilden."*
+
+> *(Als het Collectief onder 50 HP raakt):* *"Het Oog… het wacht nog steeds. Jullie veranderen niets."*
+
+> *(Bij de laatste aanval):* *"Wij… herinner… ik herinner me niet meer wie ik was."*
+
+*Laat het langzaam desintegreren — geen dramatische explosie. Het trekt in zichzelf terug.*
+
+---
+
+### Het Einde
+
+> De massa verliest spanning. Niet snel. Langzaam, als lucht uit een blaasbalg.
+>
+> Gezichten verschijnen één laatste keer — en blijven dan hangen, vervormd, voor ze verdwijnen.
+>
+> Wat overblijft is een dunne, zilverachtige laag op het marmer. Geen geur. Geen warmte.
+>
+> De wachters bij de uitgang kijken naar de vloer. Niemand zegt iets.
+
+**Loots / Overblijfselen:**
+
+- **Geen lichamen** — de doppelgangers laten geen herkenbare vorm achter.
+- **Schaduwregister** — nog steeds in bezit van de spelers (indien gevonden in IV-A).
+- **Fragmentarische Herinneringen** *(optioneel)*: de wizard of de bard kan met **Arcana DC 14** een korte echo opvangen van de laatste gedachten van het Collectief — een beeld van iets dat dieper ligt. Een kelderruimte. Een blauw licht.
+- **De Sleutel van Maarten** *(indien niet eerder verworven)*: ligt op de vloer bij de ingang van de wapenkamer.
+
+---
+
+### Conditie na het Gevecht
+
+| Wie | Status |
+|---|---|
+| Stadhouder (doppelganger) | Opgelost in het Collectief — dood |
+| Generaal Bontus (doppelganger) | Opgelost in het Collectief — dood |
+| Vrouwe Linde (doppelganger) | Opgelost in het Collectief — dood |
+| Bard Willem (doppelganger) | Opgelost in het Collectief — dood |
+| Maarten *(INSTABIEL)* | Zie DM-keuze hieronder |
+| Elven delegatie | Deels gevlucht, deels aanwezig — getuigen |
+| Wachters | Verward, leidersloos |
+| Overige gasten | Gevlucht of verstopt 
+
+---
+
 ## CHAPTER IX — Nasleep van de Maskerade
 
 ### De Directe Stilte
@@ -874,73 +1023,233 @@ Wanneer minstens twee massa's elkaar raken, **of** spelers ze 2 rondes negeren:
 > Wachters kijken elkaar aan. Niemand weet wie nog te vertrouwen is.
 
 **Politieke realiteit:**
-- De Stadhouder is dood.
-- Meerdere hofleden zijn bevestigd als vervangers.
-- De doppelgangers zijn niet allemaal noodzakelijkerwijs geïdentificeerd.
-- Paniek moet gecontroleerd worden.
+- De Stadhouder is dood — maar niemand weet formeel wie nu het gezag draagt.
+- Meerdere hofleden zijn bevestigd als vervangers. Hoeveel *echte* mensen er vanavond zaten, is onduidelijk.
+- De doppelgangers zijn niet allemaal publiekelijk geïdentificeerd — paniek dreigt als de volle omvang bekend wordt.
+- Wachters weten niet of hun generaal echt hun generaal was.
 
-De elven delegatie eist uitleg. De generaal *(indien overleden)* laat een machtsvacuüm. Raadsleden fluisteren.
+De **elven delegatie** is deels gevlucht, deels aanwezig. Ze eisen uitleg en erkennen de spelers als degenen die hen hebben beschermd — dat is politiek kapitaal.
 
-**Korte interacties voor spelers:** ze worden ondervraagd, moeten uitleggen wat er gebeurde — misschien worden ze tijdelijk als "redders" gezien, misschien als onruststokers.
+Raadsleden fluisteren in hoeken. Een paar herkende namen uit het register zijn niet te vinden. Sommige gasten durven niet weg uit angst dat ze buiten kwetsbaarder zijn.
+
+**De spelers worden aangesproken** — niet als verdachten, maar als getuigen en, in de ogen van de overlevenden, als de mensen die iets deden. Dit is het moment om kort te verankeren hoe de stad hen ziet: helden, buitenstaanders, of gevaarlijke agenten.
 
 ---
 
 ### Antonius Arriveert
 
-> De deuren van de balzaal openen opnieuw. Antonius staat daar, nog in zijn astronomenmantel.
+> De deuren van de balzaal openen. Niet de grote poortdeuren — de zijdeur bij de trap.
 >
-> Hij kijkt niet naar de gasten. Hij kijkt naar de vloer — naar de plek waar het Collectief viel.
+> Antonius staat daar, nog in zijn astronomenmantel. Geen adem die stokt. Geen blik van schrik naar de verwoesting.
 >
-> Hij knielt. Raakt de steen aan. Zijn hand bevriest even.
+> Hij kijkt naar de vloer. Naar de zilverachtige laag die overblijft.
 >
-> *"Het is wakker geworden."*
+> Hij loopt er naartoe. Langzaam. De andere aanwezigen wijken zonder dat hij ze aankijkt.
+>
+> Hij knielt. Raakt de steen aan met twee vingers. Zijn hand bevriest even — niet van schrik, maar van concentratie.
+>
+> Dan, zacht: *"Het is wakker geworden."*
 
-Antonius vraagt wat er gezegd werd. Wanneer de spelers het woord **"Oog"** noemen:
+**DM-noot — de subtext:**
+Antonius was nooit ver weg. Hij arriveerde *snel* — te snel voor iemand die in zijn toren zat te wachten. Hij toont geen verbazing over de ravage, alleen over de bevestiging. Hij stelt geen vragen over slachtoffers, over wachters, over de politieke chaos. Zijn aandacht gaat volledig naar het residue op de vloer.
 
-> Hij verstijft. Langzaam staat hij op. *"Het Oog…"* fluistert hij.
+*Spelers die hem vertrouwen zullen dit niet opmerken. Spelers die hem wantrouwen — laat de stilte werken.*
+
+**Insight DC 15:** Antonius is niet geschrokken. Hij is opgelucht.
+
+**Insight DC 18:** Hij *herkende* het residue voordat hij het aanraakte. Zijn reactie was bevestiging, geen ontdekking.
+
+---
+
+### Het Gesprek
+
+Antonius richt zich op de spelers. Hij vraagt wat er gezegd werd — door het Collectief, aan het einde. Rustig. Methodisch.
+
+Wanneer de spelers het woord **"Oog"** laten vallen:
+
+> Hij verstijft. Langzaam staat hij op.
+>
+> Een lange stilte.
+>
+> *"Het Oog der Leegten."* Zijn stem is vlak. Niet gefluisterd — geregistreerd. Alsof hij een feit vastlegt.
+>
+> Hij draait zich niet meteen om. Hij kijkt nog even naar de vloer.
+>
+> Dan: *"Vertel me alles."*
+
+**Wat de spelers hem kunnen vertellen** — en zijn reacties:
+
+| Wat de spelers vertellen | Reactie van Antonius |
+|---|---|
+| De Stadhouder was een doppelganger | *"Hoelang?"* — hij wil een tijdlijn, geen emotie |
+| Er lagen lichamen boven | Een korte knik. *"Dan zijn de originals al eerder vervangen."* |
+| Het register bevat namen | *"Mag ik het zien."* — geen vraag, een verzoek dat verwacht ingewilligd te worden |
+| Het Collectief noemde het Oog zelf | *"Dan wisten ze waar het was."* — hij ademt even in. *"Dan weet ik nu ook dat het er nog is."* |
+
+*Die laatste zin kan vreemd klinken. Waarom wist hij niet zeker dat het er nog is? Was er een moment dat het misschien verplaatst kon zijn?*
 
 ---
 
 ### De Uitleg
 
-> *"Eeuwen geleden,"* zegt Antonius, *"werd een fragment van een machtig wezen niet vernietigd… maar verzegeld."*
+> *"Eeuwen geleden,"* zegt Antonius, *"werd een fragment van een machtig wezen niet vernietigd. Niet verslagen. Maar verzegeld."*
 >
 > Hij wijst naar de vloer. *"Niet hier gebouwd. Hier opgesloten."*
 >
-> Hij ademt diep. *"Het Oog der Leegten."*
+> *"De fundamenten van dit kasteel zijn ouder dan het kasteel zelf. Ouder dan de stad. Ouder dan de mensen die dachten dat ze hier iets bouwden."*
 >
-> Hij kijkt naar jullie. *"Het ligt onder het kasteel."*
-
-**Wat Antonius weet:**
-- Het Oog werd verzegeld na de val van Vecna.
-- Het is een overblijfsel van zijn macht.
-- Het kan niet vernietigd worden.
-- Het werd vergeten — het hof wist het ooit, maar die kennis werd langzaam bureaucratisch begraven.
-- Hij wist dat er iets was. Hij wist niet dat iemand het actief zocht. Tot nu.
-
-**Waarom de doppelgangers het wilden:**
-
-> *"Ze wilden geen stad. Ze wilden vastheid. Dat Oog kan identiteit verankeren."*
+> *"Het Oog der Leegten. Een overblijfsel van het kwaad zijn invloed — niet zijn wil, maar zijn aanwezigheid. Wat hij achterliet toen hij viel."*
 >
-> Hij kijkt naar de plek waar het monster viel.
+> Hij kijkt jullie aan.
 >
-> *"Voor hen is dat geen wapen. Het is een redding."*
+> *"Het kan niet vernietigd worden. Maar het kan gebruikt worden. Door wie het begrijpt."*
+
+**Wat Antonius beweert te weten:**
+- Het Oog werd verzegeld na de val van het kwaad, door krachten die hij "zijn voorgangers" noemt.
+- Het hof heeft ooit van het bestaan geweten — maar die kennis werd bureaucratisch begraven, generatie na generatie.
+- Hij wist dat er *iets* was onder het kasteel. Hij wist niet dat het al actief werd gebruikt.
+- De doppelgangers zochten het niet om het te vernietigen. Ze zochten het om erin te verankeren wie ze waren.
+
+> *"Ze wilden geen stad overnemen. Ze wilden namen die bleven plakken. Gezichten die niet afsleten."*
+>
+> Hij kijkt naar de plek waar het wezen stond.
+>
+> *"Voor hen was dat geen wapen. Het was een redding."*
+
+**Wat Antonius níet zegt:**
+- Waarom hij zo snel aanwezig is.
+- Hoe hij weet dat het "niet vernietigd kan worden".
+- Wat hij bedoelt met "door wie het begrijpt".
+- Waarom hij wil dat de *spelers* afdalen — en niet zelf gaat.
+
+*Laat hem behulpzaam klinken. Laat alles wat hij zegt kloppen. Maar laat de leegte tussen zijn woorden voelbaar zijn.*
+
+---
+
+### Wat de Spelers Nu Kunnen Doen
+
+De nacht is nog niet voorbij. De ingang naar het onderfundament is gevonden *(de markering "UF-3" op de kaart in de administratieve kamer)*. Maar er is geen verplichting om nu meteen af te dalen.
+
+Geef de spelers ruimte. De volgende opties staan open:
+
+---
+
+#### 1️⃣ Terug naar de Thieves' Guild
+
+De guild wacht op hun kopie van het Schaduwregister. De deal is nog niet ingelost.
+
+**Locatie:** dezelfde steeg als eerder — of een contactpunt dat de guild hen bij vertrek heeft meegegeven.
+
+> De steeg is donker. Maar ze zijn er al. Ze wisten dat jullie zouden komen.
+>
+> *"We hoorden het kabaal."* De guildleider kijkt naar de map in jullie handen. *"En?"*
+
+**Wat de guild wil:** de kopie, of het originele register. Ze houden zich aan de deal — uitnodigingen, identiteiten, informatie. Dat deel is geleverd.
+
+**Wat de guild kan geven als bonus** *(bij goede onderhandeling of Persuasion DC 14):*
+- Een ruwe schets van de catacomben onder het kasteel — ze hebben er eerder mensen in gestuurd. Die zijn niet teruggekomen, maar de guild weet wel *waarheen* ze gingen.
+- De naam van een voormalig gildlid dat de fundamenten kende: **"Vraag naar Rook. Als hij nog leeft, weet hij de weg."**
+- Een set **klimgereedschap en donkerlantaarns** — geen gevecht, maar praktisch.
+
+**Wat de guild weet over de doppelgangers:**
+- Ze wisten dat het register meer waard was dan chantage. Ze wisten niet waarom.
+- Ze hadden al eerder vermoedens dat sommige hofleden "anders" waren — te consistent, te geheugenachtig.
+- *"We dachten dat iemand ze trainde. Niet dat het… dat was."*
+
+**Mogelijke complicatie:** als de spelers het register *niet* hebben gekopieerd of weigeren te geven — de guild trekt zich niet terug, maar herinnert hen eraan dat ze een schuld hebben. *Dat wordt later ingelost.*
+
+---
+
+#### 2️⃣ De Elven Delegatie Spreken
+
+De elven zijn beschadigd maar aanwezig. Ze zagen wat er gebeurde en ze hebben een lange geheugen.
+
+> De ambassadeur staat bij een raam dat uitkijkt op de binnenplaats. Hij draait zich om wanneer jullie naderen.
+>
+> *"Wij zijn vaker welkom geheten in steden die ons niet vertrouwden,"* zegt hij. *"Maar dit is de eerste keer dat de gastheer zelf niet meer bestaat."*
+
+**Wat de elven kunnen bieden:**
+- **Historische kennis** — de elven hebben overleveringen over de fundering van Greyhawk. Ze noemen het *"de Stille Plek"* — een locatie waar zelfs hun voorouders nooit naar binnen gingen.
+- **Een talisman** *(optioneel, DM-keuze)*: een klein zilveren amulet dat beschermt tegen psychische manipulatie. *"Neem het. Wij gaan niet naar beneden."*
+- **Politieke rugdekking** — als de spelers later verantwoording moeten afleggen, staat de elven delegatie voor hen in. Voor wat het waard is.
+
+**Wat de elven willen weten:**
+- Of de besmetting verder reikt dan het kasteel.
+- Of de spelers van plan zijn het te neutraliseren of te gebruiken.
+- *"Wij stellen die vraag niet om u te beoordelen. Wij stellen hem omdat het antwoord bepaalt of wij hier morgen nog zijn."*
+
+---
+
+#### 3️⃣ Het Schaduwregister Bestuderen
+
+Als het register nog niet volledig is doorgenomen, kunnen spelers dat nu doen.
+
+**Wat een grondige lezing oplevert** *(Investigation of Arcana DC 13):*
+- Drie namen staan dubbel — één in hofschrift, één in een ander handschrift. Dit zijn waarschijnlijk de originelen én de vervangers.
+- Achterin het register staat een pagina in een ouder schrift. Niet dezelfde hand. De inkt is donkerder.
+- Op die pagina staat alleen: *"UF-3 — niet openen zonder geleide."* En daaronder een schets van een zegel — een oog met een verticale spleet.
+
+**Arcana DC 15:** het zegel is geen doppelganger-symbool. Het is ouder. Veel ouder. Het hoort bij een traditie van insluiting — magie die iets vasthoudt, niet iets beschermt.
+
+---
+
+#### 4️⃣ Antonius Verder Bevragen
+
+Hij is nog aanwezig. Hij wacht — niet ongeduldig, maar aanwezig.
+
+Spelers die doorvragen kunnen de volgende informatie loskrijgen:
+
+**"Waarom kun jij zelf niet afdalen?"**
+> *"Mijn werk is boven. Ik wijs de weg — ik ga hem niet."*
+> *(Insight DC 16: dit is geen bescheidenheid. Hij wil niet gezien worden bij de ingang.)*
+
+**"Hoe weet je zoveel over het Oog?"**
+> *"Ik ben astronoom. Ik bestudeer wat mensen vergeten zijn te bestuderen."*
+> *(Insight DC 17: hij aarzelt een fractie van een seconde te lang voor hij antwoordt.)*
+
+**"Wat gebeurt er als het Oog gevonden wordt?"**
+> *"Dat hangt af van wie het vindt."*
+> Hij kijkt jullie aan. *"Ik ga ervan uit dat jullie de juiste mensen zijn."*
+> *(Insight DC 18: hij is er zeker van. Niet hoopvol. Zeker.)*
+
+---
+
+#### 5️⃣ Korte Rust en Voorbereiding
+
+De balzaal is geen veilige plek — maar een zijvertrek of de keuken *(nu leeg)* kan worden gebruikt. De spelers kunnen een **Short Rest** nemen voor ze afdalen.
+
+Antonius heeft geen bezwaar. *"Verstandig,"* zegt hij alleen. Dan gaat hij bij de ingang staan en kijkt naar de vloer.
 
 ---
 
 ### De Politieke Beslissing
 
-Er zijn nu drie mogelijke routes:
-1. **De zaak verbergen** *(paniek voorkomen)*
-2. **Openbaar maken** dat het hof geïnfiltreerd was
-3. **Direct afdalen** naar het onderfundament
+Ergens in de nasleep moeten de spelers bepalen wat ze met de informatie doen:
+
+1. **Stil houden** — alleen de guild en de elven weten iets. De stad slaapt.
+2. **Selectief delen** — de raad of de wachters informeren dat de Stadhouder vervangen was, maar het Oog geheim houden.
+3. **Openbaar maken** — chaos, maar ook steun van de bevolking als het goed wordt gebracht.
+
+*Er is geen goede keuze. Er zijn alleen consequenties.*
 
 ---
 
-### Einde van de Nasleep
+### De Afdaling
+
+Wanneer de spelers klaar zijn:
+
+> De markering "UF-3" op de kaart in de administratieve kamer wees naar de kelder van de noordvleugel.
+>
+> De deur staat er al. Zwaar, oud, met een ijzeren grendel die er recent uit is gehaald — iemand is hier eerder geweest.
+>
+> Achter de deur ligt een trap. Steen. Ouder dan het kasteel.
+>
+> Antonius staat op een afstand. Hij kijkt toe.
+>
+> *"De stad slaapt niet,"* zegt hij. *"Maar het wacht wel."*
 
 > De stad slaapt niet die nacht. Wachters patrouilleren dubbel. De zaal wordt afgesloten.
 >
 > Onder het kasteel stroomt koude lucht.
 >
-> En nu weten jullie: het **Oog der Leegten** is geen verhaal. Het is een plaats. En het wacht.
+> En nu weten jullie: het **Oog der Leegten** is geen verhaal. Het is echt. En het wacht.
