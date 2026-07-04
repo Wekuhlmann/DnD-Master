@@ -44,11 +44,11 @@ Terwijl de spelers op adem komen, schilder je de ruimte:
 
 ### Omgeving Scannen
 
-| Vaardigheid         | DC | Resultaat                                                                                                 |
-|---------------------|----|-----------------------------------------------------------------------------------------------------------|
-| Investigation       | 12 | De rails naar links zijn deels losgeschoten van hun beugels — iemand heeft hier zwaar over gereden, of iets heeft de vloer doen schudden. |
-| Survival            | 13 | Het kloppen van rechts heeft een regelmatig ritme — **niet** mechanisch. Het klinkt biologisch.          |
-| Perception          | 11 | In de middelste tunnel, net buiten het zicht, flikkert een zwak oranje schijnsel van iets verderops.     |
+| Vaardigheid   | DC  | Resultaat                                                                                                                                 |
+| ------------- | --- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Investigation | 12  | De rails naar links zijn deels losgeschoten van hun beugels — iemand heeft hier zwaar over gereden, of iets heeft de vloer doen schudden. |
+| Survival      | 13  | Het kloppen van rechts heeft een regelmatig ritme — **niet** mechanisch. Het klinkt biologisch.                                           |
+| Perception    | 11  | In de middelste tunnel, net buiten het zicht, flikkert een zwak oranje schijnsel van iets verderops.                                      |
 
 **Keuze aan de spelers:** Welke tunnel kiezen ze?
 
@@ -113,7 +113,7 @@ Moeizaam over de brug en tussen het puin wroeten levert op:
 
 ### Het Logboek *(Vorlees of parafraseer naar believen)*
 
-> Het handschrift is steil en hoekig, maar de regels zwenken soms af — iemand die schrijft terwijl zijn gedachten ergens anders zijn. Achterin staat een naam: *Barreck, Schacht 7.*
+> Het handschrift is steil en hoekig, maar de regels zwenken soms af — iemand die schrijft terwijl haar gedachten ergens anders zijn. Achterin staat een naam: *Dagni, Schacht 7.*
 
 **Relevante passages:**
 
@@ -121,11 +121,11 @@ Moeizaam over de brug en tussen het puin wroeten levert op:
 
 > *"Dag 3 — De rails rechts zijn versperd door iets wat ik liever niet tegenkom. Grote ronde vormen. Ik houd me stil."*
 
-> *"Dag 4 — Ik ben bij de opzieners kamer geweest. Westzijde, kleine doorgang. De paddenstoelen zijn er erg. De kist staat er nog — ik kon hem niet open krijgen. De opziener heeft ooit gezegd: het verhaal staat op de muren. Begin bij het begin. Ik denk dat hij de rijkste man was die ik ooit heb gekend en hij heeft het allemaal achtergelaten."*
+> *"Dag 4 — Ik ben bij de opzieners kamer geweest. Oostzijde, kleine doorgang. De paddenstoelen zijn er erg. De kist staat er nog — ik kon hem niet open krijgen. De opziener heeft ooit gezegd: het verhaal staat op de muren. Begin bij het begin. Ik denk dat hij de rijkste man was die ik ooit heb gekend en hij heeft het allemaal achtergelaten."*
 
-> *"Dag 6 — De stroom aan het einde van alle drie de gangen is dezelfde rivier. Ik heb het getest. Als ik in het water spring, word ik meegenomen. Weet niet waarheen. Maar er is geen andere weg. Ik ga het proberen. Als iemand dit leest — de globe is een afscheidsgeschenk van Schacht 7."*
+> *"Dag 6 — De stroom aan het einde van alle drie de gangen is dezelfde rivier. Ik heb het getest. Als ik in het water spring, word ik meegenomen. Weet niet waarheen. Maar er is geen andere weg. Ik ga het proberen."
 
-> **DM-noot:** Barreck overleefde de rivier. Hij is later opgedoken in Splintermarkt — zie het gerucht bij de herbergier. Het logboek geeft de party twee dingen: de locatie van de opzieners kamer (westzijde, kleine doorgang) en de eerste hint voor de puzzel (*"het verhaal staat op de muren, begin bij het begin"*). Wie dit logboek leest vóór ze de kamer betreden, weet al dat het een verhaal is dat een volgorde heeft.
+> **DM-noot:** Dagni overleefde de rivier. Ze is later opgedoken in Splintermarkt — zie het gerucht bij de herbergier. Het logboek geeft de party twee dingen: de locatie van de opzieners kamer (westzijde, kleine doorgang) en de eerste hint voor de puzzel (*"het verhaal staat op de muren, begin bij het begin"*). Wie dit logboek leest vóór ze de kamer betreden, weet al dat het een verhaal is dat een volgorde heeft.
 
 ---
 
@@ -137,7 +137,7 @@ Een speler met een passieve Perception van 12 of hoger merkt halverwege de inspe
 >
 > *"U... bent niet de zwarte ogen. Dat is... goed. Dat is goed."*
 
-**Glurph** is een Flumph die al geruime tijd in dit deel van de Underdark leeft, aangetrokken door de psychische resten van Barrecks aanwezigheid — angst, hoop en eenzaamheid zijn sterke prikkels voor een Flumph. Glurph is niet gevaarlijk, maar voorzichtig en kwetsbaar.
+**Glurph** is een Flumph die al geruime tijd in dit deel van de Underdark leeft, aangetrokken door de psychische resten van Dagni's aanwezigheid — angst, hoop en eenzaamheid zijn sterke prikkels voor een Flumph. Glurph is niet gevaarlijk, maar voorzichtig en kwetsbaar.
 
 **Eerste reactie van de party:**
 
@@ -149,15 +149,15 @@ Een speler met een passieve Perception van 12 of hoger merkt halverwege de inspe
 
 **Wat Glurph weet *(deelt mee als de party vriendelijk is)*:**
 
-> *"De man die hier woonde — ik kende hem goed. Bang, maar vastberaden. Hij sprong. Ik heb hem horen landen, verder weg. Hij leefde."*
+> *"De vrouw die hier woonde — ik kende haar goed. Bang, maar vastberaden. Ze sprong. Ik heb haar horen landen, verder weg. Ze leefde."*
 
-> *"Hij sprak veel. Niet altijd tegen mij. Soms alleen maar... woorden. Over een kamer, verder in de mijn. Plaatjes op de muren. Hij zei: de opziener heeft zijn verhaal erin gebeiteld. En het einde staat niet waar je denkt."*
+> *"Ze sprak veel. Niet altijd tegen mij. Soms alleen maar... woorden. Over een kamer, verder in de mijn. Plaatjes op de muren. Hij zei: de opziener heeft zijn verhaal erin gebeiteld. En het einde staat niet waar je denkt."*
 
 > *"De zwarte ogen"* — Glurph bedoelt de Duergar. — *"Ze kwamen hier langs. Drie keer. Ze dragen... boosheid. En iets kouders daaronder. Ik verstop me als ik ze voel komen."*
 
 > *"Er is iets diepers."* — Even stilte. De stekels dimmen merkbaar. — *"Iets wat niet denkt zoals jullie. Niet zoals ik. Het... suist. Als een stem zonder mond. Het trekt gedachten naar zich toe. Ik blijf hier."*
 
-> **DM-noot:** Glurph bevestigt vier dingen: Barreck overleefde de rivier *(sluit aan op het gerucht in Splintermarkt)*, er is een kamer met platen verderop *(locatiebevestiging voor spelers die het logboek misten)*, het verhaal op de muren heeft een onverwacht einde *(tweede hint voor de puzzel)*, de Duergar patrouilleren dit gebied actief *(urgentie rond Freek)*, en er is een diepere aanwezigheid. Glurph verlaat zijn tunnel niet; hij is te bang. Maar hij onthoudt wie de party is. Als ze ooit terugkeren, is hij er nog.
+> **DM-noot:** Glurph bevestigt vier dingen: Dagni overleefde de rivier *(sluit aan op het gerucht in Splintermarkt)*, er is een kamer met platen verderop *(locatiebevestiging voor spelers die het logboek misten)*, het verhaal op de muren heeft een onverwacht einde *(tweede hint voor de puzzel)*, de Duergar patrouilleren dit gebied actief *(urgentie rond Freek)*, en er is een diepere aanwezigheid. Glurph verlaat zijn tunnel niet; hij is te bang. Maar hij onthoudt wie de party is. Als ze ooit terugkeren, is hij er nog.
 
 ---
 
@@ -542,11 +542,11 @@ Een dwerg kettingelt een mijnpoort dicht. Hij kijkt moe maar vastberaden. **Geen
 
 > *"Dag 12 na de instorting. Negen doden. Drie vermist. De mijn is half overwoekerd. We stoppen de winning op niveau vier — er is iets in die diepte dat we niet begrijpen. Het zingt. Dat is het enige woord dat ik heb."*
 
-> *"Dag 19. Barreck hoort het ook. Hij zegt dat het niet zingt maar fluistert. Hij wil er naartoe. Ik heb hem verboden."*
+> *"Dag 19. Dagni hoort het ook. Ze zegt dat het niet zingt maar fluistert. Ze wil er naartoe. Ik heb haar verboden."*
 
 > *"Dag 31. Schacht 7 is gesloten. Ik neem de sleutel mee. Wat er ook diep in die rotsen leeft — het mag hier blijven. Moge niemand ooit zo dom zijn om opnieuw te graven."*
 
-> **DM-noot:** Het dagboek geeft de party de volledige puzzel als ze het combineren met de skill checks op de kist: de paddenstoelen groeiden *naar de kist toe* en het fragment erin is de oorzaak. Barreck blijft een losse draad — een dwerg die wél wilde onderzoeken, wiens naam ook opdook in de geruchten van Splintermarkt. Leeft hij nog?
+> **DM-noot:** Het dagboek geeft de party de volledige puzzel als ze het combineren met de skill checks op de kist: de paddenstoelen groeiden *naar de kist toe* en het fragment erin is de oorzaak. Dagni blijft een losse draad — een dwerg die wél wilde onderzoeken, wier naam ook opdook in de geruchten van Splintermarkt. Leeft ze nog?
 
 ---
 
@@ -660,7 +660,7 @@ In Splintermarkt kan de party:
 |---|---|---|
 | *"De Duergar-patrouilles zijn vaker geworden. Ze zoeken iets."* | Dwarven smid | Bevestigt urgentie rond Freek |
 | *"Iemand heeft vorige week een tunnel dichtgemetseld die naar het oosten leidt. Niemand weet wie."* | Deep gnome marktvrouw | Hints dat er iets is wat mensen willen insluiten |
-| *"Er was hier een dwerg, maanden terug. Barreck. Hij vroeg naar iets dieps. Is weggegaan en nooit teruggekomen."* | De herbergier van De Gebarsten Steen | Directe link naar het dagboek van Deel 8 |
+| *"Er was hier een dwerg, maanden terug. Dagni. Ze vroeg naar iets dieps. Is weggegaan en nooit teruggekomen."* | De herbergier van De Gebarsten Steen | Directe link naar het dagboek van Deel 8 |
 | *"Het suist soms. 's Nachts. Diep uit de rotsen."* | Jonge deep gnome | Eerste bevestiging van de entiteit in de nederzetting |
 | *"Er was nog een dwerg, een paar weken geleden. Zwaar gebouwd. Kalme ogen — te kalm. Droeg een paladin-embleem, maar de achterkant naar buiten. Hij vroeg naar de diepste oost-routes. Betaalde goed en stelde geen vragen terug."* | Deep gnome koopman aan de rand van de markt | Dorn Askenvuur was hier. Hij is de diepte al ingegaan. *(Niet benoemen aan de spelers — laat het hangen.)* |
 
@@ -720,9 +720,9 @@ Dit pad levert **de meeste kennis** over de vijand, maar vraagt de zwaarste pers
 
 **Weg 3 — Verder Onderzoeken**
 
-**Wie trekt:** Wie de puzzel wil oplossen. Het dagboek noemde Barreck — en het gerucht in de herberg bevestigt dat hij hier was.
+**Wie trekt:** Wie de puzzel wil oplossen. Het dagboek noemde Dagni — en het gerucht in de herberg bevestigt dat ze hier was.
 
-Wat ze vinden: Barreck zelf (levend maar gebroken, fragmentarische kennis), of zijn spoor — dat hen brengt naar een plek die te dicht bij de entiteit ligt voor comfort.
+Wat ze vinden: Dagni zelf (levend maar gebroken, fragmentarische kennis), of haar spoor — dat hen brengt naar een plek die te dicht bij de entiteit ligt voor comfort.
 
 ---
 

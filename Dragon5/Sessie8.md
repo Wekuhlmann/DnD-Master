@@ -12,14 +12,14 @@ De catacomben zijn bewoond door wat achterblijft wanneer het Oog langzaam ontwaa
 
 *Dit is een verkenningssessie met atmosferische horror, gevechtsencounters en een gevaarlijke climax.*
 
-> **DM Note — Het Grote Geheim:** Antonius **is Vecna in vermomming**. Het Oog der Leegten is een fragment van zijn eigen afgesplitste macht. Hij stuurt de party als pionnen — hij kan het Oog niet zelf ophalen omdat de Hydra eeuwen geleden door hemzelf werd geplaatst als bewaker, gebonden aan zijn magie. Ze herkent zijn aanwezigheid en zou het Oog nooit voor hem loslaten. Voor stervelingen is ze slechts een bewaker. Antonius weet dit. Vandaar zijn "verklaring" dat hij niet mee kan.
+> **DM Note — Het Grote Geheim:** Antonius **is Vecna in vermomming**. Het Oog der Leegten is letterlijk zijn eigen linkeroog — verloren eeuwen geleden na zijn val, ergens verborgen in de wereld. Hij heeft er sindsdien naar gezocht. Hij vermoedde dat het in de oude fundamenten onder kasteel Greyhawk lag, maar wist het niet zeker. Hij stuurde de party officieel om "informatie over een artefact" te vinden — maar hoopte dat ze zijn oog zelf zouden terugbrengen. Hij kan zelf niet gaan: de Hydra werd door hemzelf geplaatst als bewaker, gebonden aan zijn magie. Ze herkent zijn aanwezigheid en zou het Oog nooit voor hem loslaten. Voor stervelingen is ze slechts een bewaker.
 >
 > Subtiele hints voor spelers die goed opletten:
-> - Hij beschrijft het Oog met onnatuurlijke precisie — alsof hij het van binnenuit kent.
+> - Hij beschrijft het Oog met onnatuurlijke precisie — hij beschrijft het van binnenuit, want het ís van hem.
 > - Zijn schaduw valt soms de verkeerde kant op in kaarslicht.
 > - Hij knippert nooit als hij het Oog beschrijft.
 > - Wanneer de party terugkeert met het Oog, reikt hij er iets te snel naar.
-> - Als hij zegt *"ik wacht hier"* — kijk hoe zijn ogen al naar het gat zijn terwijl hij het zegt.
+> - Als hij de party uitzwaait bij het observatorium — kijk hoe zijn blik even naar het kasteel gaat. Niet naar de party. Naar het kasteel.
 >
 > Onthul dit nu nog niet aan spelers. Het is setup voor een latere sessie.
 
@@ -27,31 +27,31 @@ De catacomben zijn bewoond door wat achterblijft wanneer het Oog langzaam ontwaa
 
 ## Voorbereiding — De Afdaling
 
-### Ingang via de Voorraadkamer
+### Het Observatorium *(Eerder die Avond)*
 
-> De keuken is verlaten nu. Gebroken glas, omgevallen rekken, de geur van rook en iets nats. Het gat in de fundering gaapt zwart.
+Voordat de party het bal betrad, bezochten zij Antonius in zijn observatorium hoog boven de stad.
+
+> De sterrenkaart aan het koperen plafond draait langzaam. Kaarslicht flikkert over manuscripten en astronomische instrumenten. Antonius staat met zijn rug naar hen toe, uitkijkend over de stad door het grote ronde raam.
 >
-> Koude lucht stijgt op. Niet de koude van de winter — iets anders. Droog. Oud. Alsof de adem van iets dat al heel lang wacht.
+> Zijn blik rust op het kasteel.
 >
-> Antonius staat aan de rand van het gat. Hij bukt, raakt de gebroken steen aan. Zijn vingers bewegen over het oppervlak alsof hij de steen herkent.
+> *"Onder dat kasteel ligt iets."*
 >
-> *"De steen hier is ouder dan het kasteel. Ouder dan de stad."*
+> Hij draait zich niet om.
 >
-> Hij kijkt omhoog.
+> *"Ik heb er lang naar gezocht. In archieven, in sterrenkaarten, in de sporen die oude magie achterlaat. De fundamenten onder Greyhawk zijn ouder dan de stad zelf — ouder dan elke beschaving die ik ken. En in die fundamenten… ligt iets van grote macht."*
 >
-> *"Wat eronder ligt heeft hier altijd al gelegen. Greyhawk werd er omheen gebouwd — al wist niemand meer waarom."*
+> Nu draait hij zich om.
 >
-> Hij kijkt jullie aan.
+> *"Een van de drie artefacten die jullie nodig hebben om naar huis te komen. Ik weet niet zeker of het er is — maar alles wat ik heb gevonden wijst daarheen."*
 >
-> *"Ik ga niet mee. Mijn magie trekt het aan — het Oog zou wakker worden voor ik de eerste kamer bereikte. Jullie zijn… onopvallender."*
+> Hij pakt een kleine zilveren amulet van zijn bureau — koud als ijs, de ketting versleten alsof hij eeuwen oud is.
 >
-> Hij overhandigt een kleine zilveren amulet — koud als ijs, de ketting versleten alsof hij eeuwen oud is.
->
-> *"Draag dit. Het dempt de invloed van het Oog op de geest. Enigszins."*
+> *"Draag dit. De magie die ik van buitenaf voel raakt aan identiteit. Wezens die te lang in de buurt blijven vergeten wie ze zijn. Dit dempt die invloed. Enigszins."*
 >
 > Dan, bijna terloops:
 >
-> *"Het Oog is een artefact. Fysiek. Klein genoeg om te dragen. Breng het mee terug."*
+> *"Als jullie iets vinden dat aanvoelt als macht — een edelsteen, zwart als een gat in de werkelijkheid, zo groot als een vuist — neem het mee. Stop het in iets dat het omsluit."*
 >
 > *"Jullie hebben het nodig om naar huis te komen."*
 
@@ -59,18 +59,28 @@ De catacomben zijn bewoond door wat achterblijft wanneer het Oog langzaam ontwaa
 
 | Vraag | Antwoord |
 |---|---|
-| Wat is het Oog precies? | *"Een artefact van grote macht. Een fragment van een wil die al lang geleden verslagen had moeten worden. Het heeft de vorm van een donkere edelsteen — ter grootte van een vuist. Je zult het herkennen."* |
-| Waarom hebben we het nodig? | *"Het is één van drie sleutels. Jullie hebben de Bloodmoon Gem al. Het Oog is de tweede. Zonder alle drie komen jullie nooit terug."* |
-| Is het gevaarlijk? | *"Het beïnvloedt identiteit. Wezens die te lang in de buurt zijn… vergeten wie ze zijn. Blijf helder. Herinner elkaar bij naam. En zodra je het hebt: stop het in iets dat het omsluit — het leer in mijn tas zou moeten werken."* |
-| Wat bewaakt het? | Een korte stilte. Zijn ogen bewegen niet. *"Er zal weerstand zijn. Wees voorbereid."* |
+| Wat zoeken we precies? | *"Aanwijzingen. Of het artefact zelf — ik weet het niet zeker. Maar als jullie een edelsteen vinden, zwart, mat, ter grootte van een vuist, zo donker dat hij licht absorbeert in plaats van weerkaatst — dat is het."* |
+| Waarom hebben we het nodig? | *"Het is één van drie sleutels. Jullie hebben de Bloodmoon Gem al. Dit is de tweede. Zonder alle drie komen jullie nooit terug."* |
+| Is het gevaarlijk? | *"De magie raakt aan identiteit. Vergeetachtigheid. Verwarring over wie je bent. Blijf helder. Herinner elkaar bij naam."* |
+| Wat bewaakt het? | Een korte stilte. Zijn ogen bewegen niet. *"Dat weet ik niet."* Een pauze. *"Wees voorbereid."* |
 | Waarom weet jij dit allemaal? | *"Ik studeer de hemel al langer dan de meeste mensen leven. Sommige waarheden staan in de sterren. Andere… in donkerdere plaatsen."* Hij kijkt weg. |
-| Komen we er levend uit? | Een lange stilte. *"Dat is aan jullie."* |
+| Waarom ga je niet zelf? | *"Mijn magie trekt het aan. Wat er ook ligt — als ik het nader zou het ontwaken voor ik de eerste kamer bereikte. Jullie zijn… onopvallender."* |
 
 **DM Notes:**
-- De amulet is functioneel: **+2 op Wisdom saves** vs. het Oog's invloed. Maar Antonius geeft hem niet uit vriendelijkheid — hij wil dat de party succesvol is.
-- *"Weerstand"* is zijn omschrijving voor de Hydra. Hij legt niet uit wat het is.
+- De amulet is functioneel: **+2 op Wisdom saves** vs. het Oog's invloed. Antonius gaf hem niet uit vriendelijkheid — hij wil dat de party zijn oog terugbrengt.
+- "Dat weet ik niet" over wat het bewaakt is een leugen. Hij weet exact wat er is: de Hydra die hij zelf plaatste.
 - Als spelers doorvragen over zijn kennis: hij verandert van onderwerp. **Insight DC 16** om op te merken dat zijn antwoorden altijd kloppen maar nooit volledig zijn.
 - Herinner spelers er subtiel aan: gebruik elkaars namen. Dit wordt later mechanisch relevant.
+
+---
+
+### Ingang via de Voorraadkamer
+
+> De keuken is verlaten. Gebroken glas, omgevallen rekken, de geur van rook en iets nats. Het gat in de fundering gaapt zwart.
+>
+> Koude lucht stijgt op. Niet de koude van de winter — iets anders. Droog. Oud. Alsof de adem van iets dat al heel lang wacht.
+>
+> De steen rondom het gat is ouder dan de rest van de kelder. Hier heeft iemand gegraven — maar de laag eronder was er al lang voor het kasteel.
 
 ---
 
@@ -495,25 +505,205 @@ De tocht terug is stiller. De Leegte-Gezichtlozen in Zone C zijn verdwenen. Het 
 
 ---
 
+### De Keuken
+
+> De keuken ruikt naar gedoofd kaarslicht en iets kouds — de lucht die achter jullie aanklimt vanuit het gat.
+>
+> Niemand. Geen keukenpersoneel, geen wachters. De rekken staan nog zoals ze stonden. Een omgevallen stoel. Een theedoek op de grond.
+>
+> Ergens boven jullie, door de stenen muren heen: stilte.
+>
+> Niet de stilte van een slapend kasteel. Iets anders.
+
+**Perception DC 12:** Stemmen. Ver weg. Eén richting — de balzaal.
+
+---
+
+### De Balzaal
+
+> De grote deuren naar de balzaal staan op een kier. Kaarslicht sijpelt door de opening — warm, geel, te rustig voor dit uur.
+>
+> Als jullie naar binnen kijken: de zaal is leeg.
+>
+> Bijna.
+
+**Wat ze zien:**
+
+De balzaal draagt de sporen van een avond die abrupt eindigde. Tafels zijn naar de zijkant geschoven, stoelen staan schots en scheef of zijn achtergelaten midden in de zaal. Op één tafel staan nog vijf wijnglazen — drie leeg, twee halfvol. Een vrouwenhandschoen ligt op de vloer bij de uitgang. Ergens langs de wand hangt een officieel document op parchment, vastgepind met een zegel.
+
+Op het podium midden in de zaal — waar eerder de muzikanten stonden — staat nu een kleine schrijftafel. Kaarten. Documenten. Een kompas.
+
+Aan de tafel zitten drie mensen.
+
+De Stadhouder. Generaal Bontus. Vrouwe Linde.
+
+Ze kijken op als de deur beweegt.
+
+---
+
+**Het Parchment** *(als spelers het lezen — Investigation DC 10 of simpelweg naartoe lopen)*
+
+> *PROCLAMATIE VAN DE STADHOUDER VAN GREYHAWK*
+> *Uitgevaardigd deze avond, in naam van de stad en haar veiligheid:*
+>
+> *I. Het stadsbestuur wordt per direct gecentraliseerd onder het gezag van de Stadhouder, totdat de huidige dreiging voor de openbare orde is geweken.*
+> *II. Generaal Bontus is aangesteld als Hoofd van de Nieuwe Veiligheidsraad, met volledige bevoegdheid over stad en kasteel.*
+> *III. De fundamenten en kelders onder kasteel Greyhawk zijn afgesloten voor publiek verkeer. Bij zonsopgang vertrekt een officiële expeditie om oude stadseigendommen veilig te stellen.*
+>
+> *Ondertekend: Stadhouder Aldric van Greyhawk*
+
+**DM Note — Hoe de adel reageerde:**
+
+Geen van de gasten is nog aanwezig. Ze zijn allemaal weg, elk op hun eigen manier:
+
+| Wie | Reactie |
+|---|---|
+| **De Elfendelegatie** | Formeel en koud vertrokken binnen twintig minuten. Citeerden "protocolbezwaren." Stuurden geen groet bij het verlaten van het kasteel. |
+| **Graaf Aldenmere** | Stond op en sprak openlijk bezwaar uit. Werd "voor zijn eigen veiligheid" door twee wachters begeleid naar buiten. |
+| **Meeste adellijke families** | Beleefd applaus van enkelen, stille exits van de meesten. Niemand wilde als eerste weigeren. |
+| **Bard Willem** | Speelde op bevel een triomfantelijke fanfare na de aankondiging. Daarna weggestuurd met het overige personeel. |
+| **Al het keuken- en bediendenpersoneel** | Direct naar huis gestuurd. |
+
+Het kasteel wordt nu bewaakt door een handvol wachters die loyaal zijn aan Bontus — of te bang zijn om dat niet te zijn.
+
+---
+
+### De Confrontatie
+
+De Stadhouder is de eerste die spreekt. Hij kijkt niet naar de party — hij kijkt naar het foedraal.
+
+> *"Daar zijn jullie."*
+>
+> Hij staat op. Langzaam. Geen haast.
+>
+> *"We vroegen ons al af hoe lang jullie weg zouden blijven."*
+>
+> Bontus schuift zijn stoel naar achteren. Linde staat al.
+>
+> De Stadhouder kijkt jullie eindelijk aan.
+>
+> *"De expeditie vertrekt bij zonsopgang. Maar het lijkt erop dat jullie ons de moeite hebben bespaard."*
+>
+> Zijn ogen gaan terug naar het foedraal. En blijven daar.
+
+**Insight DC 13:** Hij kijkt niet naar jullie gezichten. Hij kijkt alleen naar wat jullie dragen. Alsof jullie zelf er niet toe doen.
+
+**Insight DC 16:** Hij knippert niet.
+
+---
+
+**Wat de Stadhouder kan zeggen voor het gevecht begint:**
+
+Laat hem spreken. De doppelgangers hoeven niet meteen aan te vallen — ze zijn slim genoeg om te proberen het Oog zonder gevecht te bemachtigen.
+
+| Wat de party zegt | Wat de Stadhouder antwoordt |
+|---|---|
+| *"Wat is dit allemaal?"* | *"Noodzaak. De stad heeft leiderschap nodig. Dat begrijpen jullie niet — jullie zijn hier niet van hier."* |
+| *"Wat wil je van ons?"* | *"Alleen wat jullie hebben meegenomen. Dat is stadseigendom."* |
+| *"Wat zijn jullie?"* | Een stilte. Dan: *"Wij zijn tijdelijk. Net als jullie."* |
+| *"We geven het niet."* | *"Dat dachten we al."* — hij knikt naar Bontus. |
+
+**De transformatie triggert zodra:**
+- De party weigert het Oog af te geven.
+- Een speler een aanval doet of een spreuk cast.
+- Een speler de proclamatie van de muur scheurt.
+- Een speler *"wat zijn jullie echt"* vraagt en een **Charisma (Intimidation) DC 14** slaagt — het masker zakt een moment, en dat is genoeg.
+
+> Het gezicht van de Stadhouder verandert niet dramatisch. Het *zakt*. De trekken worden zacht, worden neutraal, worden niets.
+>
+> Achter hem doen Bontus en Linde hetzelfde. Geen geluid. Alleen vormverandering — als was naast een vlam.
+>
+> *"Geef het ons."*
+>
+> Eén zin. Drie monden. Tegelijk.
+
+---
+
+**Het Gevecht — Doppelgangers in de Balzaal**
+
+Gebruik de statblocks en fasen uit **Sessie 7, Chapter VII en VIII**. De balzaal biedt dezelfde omgevingselementen als daar beschreven: omgekantelde tafels als dekking, smeulende kaarsen, de kroonluchter.
+
+**Aanpassing voor dit moment:**
+- De doppelgangers zijn **gericht op het foedraal**, niet op doden. Ze proberen het te grijpen, niet de party te vernietigen. Dit maakt hun tactiek anders: ze omsingelen de drager, proberen te ontwapenen of te grapple-en.
+- Als een speler het Oog *uit het foedraal haalt* tijdens het gevecht — zelfs per ongeluk — begint het te fluisteren. Alle doppelgangers stoppen een halve seconde. Dan bewegen ze allemaal tegelijk op de drager af.
+- **Het Blubbercollectief vormt zich zoals beschreven in Sessie 7** zodra de eerste doppelgangers vallen.
+
+**DM Note — Het Collectief en het Oog:**
+Als het Collectief volledig gevormd is en het Oog in de kamer weet:
+
+> De massa stopt. De gezichten aan het oppervlak draaien — allemaal tegelijk — richting het foedraal.
+>
+> *"Wij willen onthouden wie wij waren."*
+>
+> Een korte stilte. Dan, zachter:
+>
+> *"Jij ook."*
+
+Het Collectief en het Oog zijn twee versies van hetzelfde: gestolen identiteit. Laat dit voelbaar zijn — maar onthul het niet expliciet.
+
+---
+
+### Antonius Komt Binnen
+
+*Nadat het Collectief verslagen is.*
+
+> Vanuit de grote deuren van de balzaal klinken voetstappen. Snel, maar niet rennend.
+>
+> Antonius. Zijn mantel is koud — hij komt van buiten, van ver. Zijn adem is licht versneld. Hij heeft gelopen.
+>
+> Hij blijft staan in de deuropening. Kijkt de zaal in. Naar de omgevallen tafels, de zilverachtige laag op de vloer, de rook van gedoofde kaarsen.
+>
+> Dan naar jullie. En naar het foedraal.
+>
+> Hij ademt langzaam uit.
+
+Als een speler vraagt hoe hij wist dat hij moest komen:
+
+> *"Ik voelde het."*
+>
+> Hij loopt naar binnen. Zijn stem is vlak, als iemand die een feit rapporteert.
+>
+> *"Het Oog — wanneer het onrustig wordt, bereikt dat me ook in de toren. Ik voelde het wakker worden. Ik voelde de spanning. En toen..."*
+>
+> Hij kijkt naar de vlek op de vloer.
+>
+> *"Toen werd het stil. Opeens. Alsof iets wat gespannen stond ineens losliet."*
+>
+> *"Dan weet je dat het voorbij is."*
+
+Als een speler vraagt waarom hij niet eerder is gekomen:
+
+> *"Ik was er te ver vandaan."*
+>
+> Een korte stilte.
+>
+> *"En zolang zij het zochten, was het niet veilig om te komen. Mijn magie trekt het aan — ook van bovenaf. Ik zou het Oog hebben laten opvlammen."*
+
+**DM Note:** "Ik was er te ver vandaan" is technisch waar. Maar spelers die goed opletten merken dat hij *snel* hier is voor iemand die vanuit zijn toren is vertrokken. Of hij al onderweg was voordat het Oog tot rust kwam — dat laat hij onuitgesproken.
+
+Zijn ogen gaan naar het foedraal.
+
+*"En het Oog?"*
+
+---
+
 ### Antonius — De Terugkeer
 
-> Hij staat precies waar jullie hem hebben achtergelaten. Zijn ogen gaan direct naar het foedraal — of naar waar het Oog zich bevindt — voor hij jullie aankijkt.
->
-> *"Jullie zijn terug."*
->
-> Hij telt. Een voor een. Zijn schouders zakken af. Dan kijkt hij opnieuw naar het foedraal.
->
-> *"En het Oog?"*
+Wanneer de party bevestigt dat ze het Oog hebben:
 
-Wanneer de party bevestigt dat ze het hebben:
-
-> Iets verandert in zijn gezicht. Niet veel. Maar genoeg. Zijn ogen worden heel even iets scherper — alsof een masker net een millimeter zakt.
+> Zijn blik gaat naar het foedraal. En blijft daar.
 >
-> Dan, glad en rustig als altijd:
+> Een moment lang beweegt hij niet. Dan verandert er iets in zijn gezicht — niet het vertrouwde masker dat een millimeter zakt. Iets ouder. Iets wat er altijd al was maar nu naar boven komt.
 >
-> *"Uitstekend. Mag ik het even…"*
+> Hij ademt in. Langzaam.
 >
-> Hij strekt zijn hand uit.
+> *"Jullie hebben het gevonden."*
+>
+> Geen vraag. Geen verrassing. Bevestiging.
+>
+> *"Mag ik het even…"*
+>
+> Hij strekt zijn hand uit. Iets te snel.
 
 **Wat er gebeurt afhankelijk van de keuze van de party:**
 
@@ -521,7 +711,7 @@ Wanneer de party bevestigt dat ze het hebben:
 > Hij houdt het foedraal vast. Lang. Zijn ogen sluiten. Dan opent hij ze en geeft het terug.
 > *"Ja. Dit is het."* Een pauze. *"Bewaar het goed."*
 >
-> **Perception DC 15 of Arcana DC 14:** De kaars in de keuken flakkert even blauw op het moment dat hij het aanraakt. Zijn schaduw beweegt een halve seconde niet mee met zijn lichaam.
+> **Perception DC 15 of Arcana DC 14:** De kandelaar naast hem flakkert even blauw op het moment dat hij het aanraakt. Zijn schaduw beweegt een halve seconde niet mee met zijn lichaam.
 
 **Als ze het *niet* geven:**
 > Hij trekt zijn hand terug zonder uitleg te eisen. Zijn glimlach verandert niet.
@@ -529,7 +719,7 @@ Wanneer de party bevestigt dat ze het hebben:
 >
 > **Insight DC 14:** Hij is niet teleurgesteld. Hij was het al van plan dit te doen. Dit was een test.
 
-**DM Note:** Antonius zal het Oog op dit moment niet forceren. Hij is geduldig — hij heeft eeuwen gewacht. Maar spelers die opletten beginnen hier een patroon te zien.
+**DM Note:** Hij herkent het. Dit is zijn eigen oog — hij wist het zodra hij het foedraal zag, misschien al eerder toen de party de balzaal binnenkwam. Eeuwen zoeken eindigen in dit moment. Wat hij voelt is geen interesse in een artefact — het is iets ouders, persoonlijkers. Hij houdt het in. Maar niet volledig. Spelers die opletten zien het. Hij zal het Oog niet forceren — hij is geduldig. Hij heeft eeuwen gewacht. Eén nacht meer verandert niets.
 
 ---
 
@@ -549,22 +739,123 @@ Wanneer de party bevestigt dat ze het hebben:
 
 ---
 
+### De Afrekening met de Guild
+
+*Dit speelt zich af zodra de party het kasteel verlaat — op straat, voor het licht wordt.*
+
+> De straat voor de kasteelpoort is verlaten. Een dunne laag vorst bedekt de keien. In het oosten begint de hemel heel licht te kleuren — nog geen dageraad, maar bijna.
+>
+> Jullie zijn nog geen tien passen van de poort verwijderd als er een figuur uit een steegje stapt.
+>
+> Handen open. Geen wapen zichtbaar. Maar links en rechts, net buiten het fakkellicht, staan twee schaduwen die jullie niet eerder zagen.
+>
+> *"Drukke nacht gehad."*
+>
+> Geen vraag.
+
+De Guildcontact heeft het kasteel de hele nacht in de gaten gehouden. Ze weten dat er iets is misgegaan — ze weten alleen nog niet wat.
+
+*"We hadden afgesproken: een kopie. Afspraak is afspraak."*
+
+---
+
+**De keuze: wat doet de party?**
+
+**1️⃣ Kopie afgeven zoals afgesproken**
+
+De contact neemt het aan. Bladert erdoorheen. Zijn gezicht verraadt niets.
+
+Dan, vlak: *"De meeste namen hier zijn van mensen die ik al weken niet heb gezien."*
+
+Hij rolt het op. Stopt het weg.
+
+*"Deal is deal."*
+
+> **Resultaat:** De Guild erkent de party als betrouwbaar. Ze zijn nu *bekenden* — geen vreemdelingen, geen doelwitten. Toekomstige contacten in de stad verlopen soepeler. De contact biedt een adres aan: *"Als jullie ergens rustig willen slapen vanavond zonder vragen."*
+
+---
+
+**2️⃣ Kopie afgeven én uitleggen wat er is gebeurd**
+
+De party vertelt het: de Stadhouder, Bontus, Linde — allemaal doppelgangers. Al een tijdje. Nu dood.
+
+Een lange stilte.
+
+> De contact kijkt naar de namen op de lijst. Dan naar het kasteel. Dan naar jullie.
+>
+> *"Hoe lang?"*
+>
+> En als jullie antwoorden:
+>
+> *"Dan weten we nu waarom onze informanten de laatste maanden niets bruikbaars meer stuurden."*
+>
+> Hij vouwt het register op. Langzaam.
+>
+> *"Jullie hebben ons een probleem bespaard dat we nog niet eens wisten dat we hadden."*
+
+> **Resultaat:** De Guild staat bij de party in het krijt. Naast het adres voor de nacht krijgen ze één van de volgende zaken — naar keuze of naar DM-oordeel:
+>
+> - **Informatie:** *"De echte Stadhouder — de mens die hij verving — verdween vier maanden geleden. We dachten dat hij op reis was. Er zijn anderen. Niet allemaal dood."* *(Er zijn mogelijk nog actieve doppelgangers in de stad.)*
+> - **Een naam:** iemand die alles weet over de catacomben en wat er ooit is begraven — een oude archivaris die niet meer in dienst is van het kasteel. *"Hij praat niet graag. Maar hij praat wel."*
+> - **Schuld van de Guild:** de contact erkent formeel dat de Guild een gunst verschuldigd is. Eenmalig in te lossen, naar keuze van de party.
+
+---
+
+**3️⃣ Onderhandelen — meer eisen dan afgesproken**
+
+De party wil méér dan de originele deal. Ze hebben geleverd en daarna nog meer gedaan.
+
+**Persuasion DC 15** *(advantage als ze de doppelganger-onthulling als onderhandelingsmateriaal gebruiken)*:
+- **Succes:** De contact glimlacht koud. *"Jullie hebben ballen. Dat respecteer ik."* Ze krijgen de gunst én het adres.
+- **Falen:** *"De deal was de deal."* Geen extra. Maar ze staan er ook niet slechter voor — de Guild respecteert poging.
+
+---
+
+**4️⃣ Het register niet hebben**
+
+Als de party het nooit heeft gevonden of gekopieerd:
+
+> *"Dan is er een probleem."*
+>
+> Hij zegt het rustig. Dat maakt het erger.
+>
+> *"Wij helpen mensen die afspraken nakomen. Jullie weten nu waar wij zijn. Wij weten nu ook waar jullie zijn."*
+
+> **Resultaat:** De deal is open. De Guild is niet vijandig — maar ze onthouden dit. In een volgende sessie kan dit terugkomen als onverwachte druk.
+
+---
+
+**De Vraag die de Contact altijd stelt — ongeacht de uitkomst:**
+
+> *"Was er een bediende bij — nerveus type, twijfelachtig, bewoog alsof hij niet zeker wist hoe? Bontus' man."*
+
+Dit is Maarten. De contact heeft hem eerder gezien en vertrouwde hem niet. Wat de party antwoordt geeft de DM ruimte om Maartens lot te bepalen — of open te laten.
+
+---
+
+**DM Note — De Guild en de nasleep:**
+De Thieves' Guild heeft geen belang bij chaos, maar wel bij een machtvacuüm. Met de Stadhouder dood en de proclamatie van kracht zonder iemand die hem handhaaft, is Greyhawk politiek kwetsbaar. De Guild wil weten wie dat gaat opvullen — en of de party daar een rol in speelt. Dit is een haak voor latere sessies.
+
+---
+
 ### Nasleep & Openstaande Vragen
 
 **De party heeft:**
 - Het **Oog der Leegten** — het tweede van drie artefacten.
 - De **Bloodmoon Gem** — al eerder verkregen van Varros Duskbane.
 - Geleerd dat het derde artefact de **Astrale Scherf** is.
-- De catacomben overleefd.
+- De doppelgangers verslagen en het Collectief vernietigd.
+- Mogelijk het vertrouwen van de Thieves' Guild gewonnen.
 
 **Openstaande vragen voor volgende sessies:**
 
-1. *Antonius wist exact wat het Oog was, hoe het eruit zag, en waar het lag. Hoe?*
-2. *De Hydra was er al eeuwen. Wie heeft haar geplaatst?*
+1. *Antonius beschreef het Oog alsof hij het kende. Hoe precies wist hij wat het was?*
+2. *De Hydra was er al eeuwen. Wie heeft haar geplaatst — en waarom?*
 3. *Het symbool op Antonius' amulet: waar staat het nog meer?*
-4. *De goblinkaart toonde meerdere spiralen. Zijn er meer ingangen naar dit soort plekken?*
+4. *De echte Stadhouder verdween vier maanden geleden. Zijn er nog andere vervangingen in de stad?*
 5. *Het Oog fluistert. Zelfs in het foedraal. Kan het de party beïnvloeden terwijl ze slapen?*
 6. *Zijn er drie artefacten nodig — of is dat wat Antonius ze heeft verteld?*
+7. *Maarten — de instabiele doppelganger. Waar is hij?*
 
 ---
 
