@@ -1,5 +1,7 @@
 # 🍄 Sidequest — De Myconid Kolonie: Fallow's Vergeten Stem
 
+> **Let op:** De volledige, doorlopende versie van deze sidequest is verwerkt in [Sessie5.md](Sessie5.md) (vanaf Deel 6). Dit document blijft als uitgebreide naslag/referentie staan (lore, statblocks, item-detail), maar voor de sessie zelf is Sessie5.md leidend.
+
 *Sidequest voor de druid — aansluitend op de hook in Sessie 5 (Splintermarkt)*
 
 ---

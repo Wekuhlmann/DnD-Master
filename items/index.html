@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Relic Press | D&D item cards</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="shell">
+    <header class="topbar">
+      <div class="brand"><span class="brand-mark">✦</span><div><p class="eyebrow">DUNGEON MASTER'S WORKSHOP</p><h1>Relic Press</h1></div></div>
+      <div class="top-actions"><span class="connection"><i></i> Local workspace</span><button class="button quiet" id="settingsButton">Settings</button><button class="button primary" id="exportButton">Print sheet</button></div>
+    </header>
+    <section class="workspace">
+      <aside class="sidebar">
+        <div class="section-heading"><div><p class="eyebrow">CURRENT SHEET</p><h2>Session 64 / Finds</h2></div><span class="count" id="cardCount">8 / 8</span></div>
+        <div class="mode-switch" role="tablist"><button class="mode active" data-side="front">Fronts</button><button class="mode" data-side="back">Backs</button></div>
+        <div class="card-list" id="cardList"></div>
+        <label class="field-label">Describe the items<textarea id="ideaPrompt" rows="3" placeholder="e.g. a cursed blade, a potion of healing, a pair of stealthy boots"></textarea></label>
+        <button class="button outline full" id="generateAllButton"><span>✧</span> Generate full sheet</button>
+        <p class="hint">Each row is mirrored on the back automatically for duplex printing.</p>
+        <div class="section-heading"><div><p class="eyebrow">ITEM LIBRARY</p><h2>Saved items</h2></div></div>
+        <div class="card-list" id="libraryList"></div>
+        <p class="hint">Select a slot above, then use the ⇩ button on a saved item to load it there — the same saved item can be loaded into multiple slots.</p>
+      </aside>
+      <div class="sidebar-resizer" id="sidebarResizer" title="Drag to resize"></div>
+      <section class="stage">
+        <div class="stage-head"><div><p class="eyebrow">PRINT PREVIEW <span class="live-dot"></span></p><h2 id="previewTitle">Front side · 4 × 2</h2><p class="hint">Click a card to select it. Click its artwork to (re)generate the image, or use its toolbar to refine/regenerate the text.</p></div><div class="stage-tools"><button class="icon-button" id="zoomOut" title="Zoom out">−</button><span id="zoomValue">72%</span><button class="icon-button" id="zoomIn" title="Zoom in">+</button><button class="button quiet" id="downloadCards">Print sheet</button></div></div>
+        <div class="preview-scroll"><div class="sheet" id="sheet"></div></div>
+      </section>
+    </section>
+  </main>
+  <dialog id="settingsDialog"><form method="dialog" class="settings-panel"><div class="dialog-head"><div><p class="eyebrow">LOCAL CONNECTIONS</p><h2>Workshop settings</h2></div><button class="icon-button" value="cancel" aria-label="Close">×</button></div><label class="field-label">Ollama URL<input id="ollamaUrl" value="http://localhost:11434"></label><label class="field-label">Ollama model<select id="ollamaModel"><option value="">Select a model...</option></select></label><div class="dialog-actions" style="justify-content:flex-start;margin-top:6px"><button class="button outline" type="button" id="testOllama">Test / refresh models</button></div><label class="field-label">ComfyUI / SwarmUI URL<input id="comfyUrl" value="http://127.0.0.1:8188"></label><label class="field-label">ComfyUI API workflow JSON (optional override)<textarea id="workflowInput" rows="5" placeholder="Leave blank to use the built-in JuggernautXL workflow with background removal. Paste a custom API-format workflow to override it."></textarea></label><button class="button outline full" type="button" id="testComfy">Test ComfyUI</button><div class="dialog-actions"><button class="button quiet" value="cancel">Cancel</button><button class="button primary" id="saveSettings" value="default">Save settings</button></div></form></dialog>
+  <div class="toast" id="toast" role="status"></div>
+  <script src="app.js"></script>
+</body>
+</html>
