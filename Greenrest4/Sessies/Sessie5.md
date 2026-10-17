@@ -14,11 +14,41 @@
 
 ---
 
+## Proloog: Het Baken in de Zak
+
+> **DM-noot:** Dit is geen gevecht, maar een signaal dat de rest van de sessie al voorbereidt. Speel het uit zodra de paladin de ochtend na Sessie 4 zijn spullen controleert, nog voordat de herberg tot leven komt.
+
+### Voorleestekst
+
+> Wanneer de paladin zijn rugzak doorzoekt, voelt hij iets wat er niet hoort te zijn. In de hoek van de zak waar hij de galmsteen bewaarde, tussen de voering en de naad, groeit een klein, bleek paddenstoeltje van nog geen vingerlengte. Het is koud en vochtig en draait zachtjes op een steeltje dat er gisteravond nog niet was.
+>
+> Hij tilt de zak op en ziet het pas nu goed: fijne, witte draden, als dunne aderen, lopen van de zak naar de rand van het nachtkastje waar de steen heeft gelegen. Daar, in het hout, groeit een kring van paddenstoelen, allemaal even klein, allemaal naar dezelfde kant gedraaid.
+
+**DC 12 Nature:** Dit is mycelium, geen gewone schimmel. Het groeit niet op de zak, het groeit *naar* iets toe.
+
+**DC 13 Investigation (op het nachtkastje):** De kring is niet alleen op de plek waar de steen lag. Een dunne witte lijn loopt over de vloer, de kamerdeur door, de gang in en de trap af — alsof iets het hele huis overtrekt en de weg naar beneden zoekt.
+
+> **DM-noot:** Overal waar de galmsteen even heeft gelegen, groeien paddenstoelen. In de kist, op de richel in de mijn, nu in de zak van de paladin. Het is geen gevaar, maar het is een baken: de Sovereign voelt de steen op het moment dat hij in de buurt van zijn netwerk komt. Gebruik dit ter herinnering aan de party dat ze iets bij zich dragen wat niet van hen is.
+
+### Bruggetje — Van de Slaapkamer naar de Tafel
+
+> Boven, in de kleine slaapkamer aan het eind van de gang, valt het eerste grijze licht door het raam op de kussens. De herberg is nog stil: alleen het gekraak van de vloer onder een voorbijgaande dienstmeid, en ver beneden het geklingel van potten uit de keuken.
+>
+> Wie wakker wordt, merkt dat de kamer koeler is dan gisteravond. De lucht ruikt naar vochtige aarde, en het geluid van de herberg lijkt van verre te komen.
+
+**DC 12 Perception (passief, bij het verlaten van de kamer):** Een dunne witte draad loopt van het nachtkastje over de vloer naar de deur, en van daar de gang in. Op de treden van de trap, tegen de leuning, staan kleine paddenstoeltjes in een rij.
+
+> **DM-noot:** Laat de spelers in hun eigen tempo wakker worden. De paladin ontdekt het paddenstoeltje pas bij het openen van zijn zak; de rest van de party kan de draden zien als ze rondlopen. Iedereen die de trap af loopt, komt langs de paddenstoelen. Beneden, bij de tafel van gisteravond, zitten de dienstmeid en de brouwer al te ontbijten.
+
+> Onderaan de trap komt jullie de warme, vertrouwde geur van fungussoep tegemoet. De zaal is bijna leeg. De tafel van gisteravond staat er nog, en de stoelen zijn nog warm van iemand die er net opstond. Jullie schuiven aan.
+
+---
+
 ## Deel 1: De Gebarsten Steen
 
 ### Voorleestekst
 
-> Nog een avond in *De Gebarsten Steen*. Het dwergenbier is lauw, de fungussoep smaakt beter dan hij eruitziet, en het lage plafond vangt het geroezemoes van de herberg in een warme, dichte deken van geluid. Na de val, de Grell, Schacht 7 en de lange weg hierheen voelt dit bijna... normaal.
+> Nog een ochtend in *De Gebarsten Steen*. Het dwergenbier is lauw, de fungussoep smaakt beter dan hij eruitziet, en het lage plafond vangt het geroezemoes van de herberg in een warme, dichte deken van geluid. Na de val, de Grell, Schacht 7 en de lange weg hierheen voelt dit bijna... normaal.
 >
 > Jullie zitten aan dezelfde tafel als de avond ervoor. Brek Knobbelsteens aanbod hangt nog in de lucht — de route naar *De Stille Kring*, drie uur naar het oosten. Niemand heeft nog hardop besloten, maar de blikken aan tafel zeggen genoeg: jullie vertrekken binnenkort.
 >
