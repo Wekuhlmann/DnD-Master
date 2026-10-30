@@ -8,11 +8,11 @@
 
 *Deze sessie begint direct na de gevechten in de balzaal.*
 
-**Speelroute voor deze avond:** Guild-afrekening → Fluisterketen bij Oswin → Zwarte Markt → Liar's Dice met Bjarne → Magisterium → reis naar Vargheim → remorhaz op het ijs → flyting met Nidhrym. De vijf ontmoetingen in Greyhawk kunnen elk een deel van de [nieuwe printkaart](Assets/Kaart-Skaldfjord-5-delen-portret.png) opleveren. De flyting is de climax; **de sessie eindigt zodra de party de Astrale Scherf aanraakt**. Chapter IV (de Scherfwereld en Astraeon) hoort bij de volgende sessie.
+**Speelroute voor deze avond:** keuze over Greyhawk → Guild-afrekening → Fluisterketen bij Oswin → Zwarte Markt → Liar's Dice met Bjarne → Magisterium → zeereis naar Vargheim → remorhaz op het ijs → flyting met Nidhrym. De vijf ontmoetingen in Greyhawk kunnen elk een deel van de [printbare zeekaart](Assets/Zeekaart-Skaldfjord-5-delen-portret.png) opleveren. De flyting is de climax; **de sessie eindigt zodra de party de Astrale Scherf aanraakt**. Chapter IV (de Scherfwereld en Astraeon) hoort bij de volgende sessie.
 
-**Tijd aan tafel (richtlijn):** Guild 15–20 min; Fluisterketen 15–20 min; Zwarte Markt 10–15 min; Liar's Dice 15–20 min; Magisterium 10–15 min; reis en Vargheim 15–20 min; remorhaz 10–20 min; flyting 30–40 min; eindbeeld 5 min. Kort de reismontage in als het onderzoek uitloopt.
+**Tijd aan tafel (richtlijn):** stadskeuze en Guild samen 20–25 min; Fluisterketen 15–20 min; Zwarte Markt 10–15 min; Liar's Dice 15–20 min; Magisterium 10–15 min; reis en Vargheim 20–25 min; remorhaz 10–20 min; flyting 30–40 min; eindbeeld 5 min. Kort de reismontage in als het onderzoek uitloopt.
 
-**Continuïteit:** Antonius' aankomst en de Guild-afrekening staan ook aan het einde van Sessie 8. Als die al gespeeld zijn, begin hier bij de eerstvolgende nog niet gespeelde keuze; speel de confrontatie niet tweemaal.
+**Continuïteit:** Antonius' aankomst en de Guild-afrekening staan ook aan het einde van Sessie 8. Als die al gespeeld zijn, begin hier bij de stadskeuze of de eerstvolgende nog niet gespeelde scène; speel de confrontatie niet tweemaal. De eerdere beslissing over *wat* de party openbaar maakte blijft staan. De stadskeuze hieronder gaat over *wie* nu tijdelijk verantwoordelijkheid krijgt.
 
 ---
 
@@ -111,6 +111,30 @@ Wanneer de party bevestigt dat ze het Oog hebben:
 > Hij draait zich om.
 >
 > *"Rust. Herstel. Ik zal uitzoeken wat ik kan."*
+
+---
+
+### De Lege Zetels — wie bestuurt Greyhawk nu?
+
+*Speel deze scène direct na Antonius of, als de party het kasteel al verliet, bij de poort in de ochtend. Houd het op vijf minuten. De party hoeft de stad niet zelf te besturen, maar bepaalt wie zij nu vertrouwen.*
+
+> In de balzaal staat de proclamatie van vannacht nog op tafel. De Stadhouder die haar ondertekende, generaal Bontus die de Veiligheidsraad moest leiden en vrouwe Linde zijn dood. Een wachtsergeant vraagt: *"Van wie nemen wij nu bevelen aan?"* Achter haar wachten bedienden, wachters en twee overlevende raadsleden op een antwoord.
+
+**Graaf Aldenmere**, de edelman die zich in Sessie 8 openlijk tegen de proclamatie verzette, komt binnen. Hij claimt geen recht op de troon. Hij zegt:
+
+> *"Ik kan dit voor vandaag regelen: de wacht bijeenhouden, de poorten openlaten en de overlevende raad bijeenroepen. Geef mij uw getuigenis en laat één raadslid en een afgevaardigde van de elven meekijken. Morgen beslist de stad zelf verder. Maar als niemand nu iets doet, beslist de luidste gewapende man."*
+
+**Laat de party kiezen of een eigen voorstel doen:**
+
+| Keuze | Wat er vandaag gebeurt | Later gevolg |
+|---|---|---|
+| **Aldenmere tijdelijk steunen** | Twee overlevende raadsleden tekenen een volmacht voor één dag; de party en een elf kunnen getuigen. De wacht bewaakt het kasteel en laat de party vertrekken. | Hij vraagt later om een verslag; de raad onderzoekt zijn optreden. |
+| **Een open raadsvergadering eisen** | De overlevende raadsleden nemen samen de leiding; de elven delegatie kan getuigen. Dit kost een paar uur in de fictie, niet aan tafel. | De stad hoort meer van het schandaal en geruchten verspreiden zich sneller. |
+| **Niemand macht geven en eerst vervangers zoeken** | De sergeant houdt alleen de poorten en het kasteel veilig. De party kan namen uit het Schaduwregister laten controleren. | Bestuursbesluiten blijven liggen; de Guild en adellijke huizen proberen intussen invloed te winnen. |
+
+**Als de party een ander betrouwbaar persoon aanwijst:** laat die persoon dezelfde drie dringende taken op zich nemen: de wacht aansturen, de echte raadsleden bijeenroepen en doppelgangers onderzoeken. Vraag alleen welke controle de party op die macht zet. **Antonius biedt zich niet aan**; hij zegt dat hij als hoofdastronoom geen mandaat heeft. De Guild kan achter de schermen helpen, maar eist geen openbaar bestuur.
+
+**Overgang:** Aldenmere of de sergeant vraagt wat de party over de doppelgangers openbaar wil verklaren. Gebruik hun eerdere keuze uit Sessie 7; laat ze die desgewenst aanpassen. Daarna kan de Guild de party buiten aanspreken. Deze stadskeuze verandert de kaartbeloningen niet.
 
 ---
 
@@ -282,9 +306,9 @@ De Thieves' Guild heeft geen belang bij chaos, maar wel bij een machtvacuüm. Me
 
 De party heeft het Oog en de Bloodmoon Gem. Het derde artefact, de **Astrale Scherf**, is de laatste sleutel — maar **niemand weet waar hij ligt**. Ook Antonius niet. Dit is de enige keer dat hij eerlijk is over wat hij niet weet.
 
-Vijf delen van een oude expeditiekaart liggen verspreid in Greyhawk. De Guild, Oswin, Pim Vossenstaart, Bjarne en Magister Elowen bewaren ieder een stuk. Samen wijzen ze naar de **Skaldfjord** in het Hoge Noorden, waar een white dragon de Scherf al eeuwen heeft gehoard. Ook met ontbrekende stukken kan de party de route uit de gesprekken afleiden.
+Vijf delen van een oude expeditiekaart liggen verspreid in Greyhawk. De Guild, Oswin, Pim Vossenstaart, Bjarne en Magister Elowen bewaren ieder een stuk. **Geen van hen heeft de volledige kaart of weet waar de Scherf ligt.** De spelers verbinden zelf de sterval, de ijsroute, de verloren expeditie en de naam op de samengelegde kaart. Met ontbrekende stukken kunnen ze nog steeds Vargheim vinden; de dwergen kennen het laatste stuk ijs.
 
-*De speelroute gebruikt het Archief, de Zwarte Markt, de Taveerne en het Magisterium. De Bibliotheek en de Tempel blijven beschikbaar als de spelers zelf een andere weg kiezen.*
+*De party kiest Bibliotheek of Archief voor dezelfde bron en dezelfde Fluisterketen. Daarna volgen de Zwarte Markt, de Taveerne en het Magisterium. De Tempel blijft een optionele omweg als de spelers daar zelf heen willen.*
 
 > **DM Note — Gebruik van het Raadsel:** Het raadsel uit Sessie 5 is al bekend en past precies op het Noorden. Herinner de spelers eraan als ze vastlopen:
 >
@@ -306,48 +330,43 @@ Vijf delen van een oude expeditiekaart liggen verspreid in Greyhawk. De Guild, O
 
 ### De Clue-Mechaniek
 
-- Print de [staande kaart](Assets/Kaart-Skaldfjord-5-delen-portret.png) en scheur hem **zonder vooraf gemarkeerde lijnen** in vijf onregelmatige delen. Houd de plaatsnamen leesbaar. Nummer de achterkanten voor jezelf.
+- Print de [staande zeekaart](Assets/Zeekaart-Skaldfjord-5-delen-portret.png) en scheur hem **zonder vooraf gemarkeerde lijnen** in vijf onregelmatige delen. Houd de plaatsnamen leesbaar. Nummer de achterkanten voor jezelf.
 - **Deel 1 — Guild:** Greyhawk en de kust. Beloning voor eerlijkheid.
-- **Deel 2 — Archief:** de ijsgrens en de eerste bergpas. Oswin geeft het bij de Fluisterketen; een perfecte volgorde levert daarnaast een waarschuwing en een herkansing in de flyting op.
-- **Deel 3 — Zwarte Markt:** de handelsroute door Hrimmark. Pim verkoopt of ruilt het samen met zijn sterrenglas.
-- **Deel 4 — Taveerne:** de noordelijke doorgang richting de fjord. Bjarne zet het in bij Liar's Dice en kan het ook voor een rondje, een klein bedrag of een oprecht antwoord afstaan.
-- **Deel 5 — Magisterium:** de noordelijke Sterrenput en haar aantekening in het Register. Elowen geeft het mee voor veldonderzoek zodra zij de party vertrouwt.
-- **Vertrek:** Bjarnes gesproken route plus twee of meer kaartdelen volstaan om Vargheim te bereiken. Het Magisterium-deel toont de precieze plek in de fjord. Ontbreekt het, dan kan een gids de laatste etappe wijzen.
+- **Deel 2 — Bibliotheek óf Archief:** de ijsgrens en de eerste vaargeul. Oswin geeft het bij het herstellen van Verhaags bladzijde; een perfecte volgorde onthult de margeregel meteen en levert een herkansing in de flyting op.
+- **Deel 3 — Zwarte Markt:** de handelsroute over zee langs Hrimmark. Pim verkoopt of ruilt het samen met zijn sterrenglas.
+- **Deel 4 — Taveerne:** Vargheim aan het einde van de bevaarbare kust en het begin van de ijsroute. Bjarne zet het in bij Liar's Dice en kan het ook voor een rondje, een klein bedrag of een oprecht antwoord afstaan.
+- **Deel 5 — Magisterium:** het noordelijke uiteinde van Verhaags kaart, bewaard in een kistje dat Bjarne daar afleverde. Elowen geeft het mee voor veldonderzoek; zij heeft de andere delen nooit gezien.
+- **Vertrek:** twee of meer kaartdelen en Bjarnes herinnering aan Vargheim geven genoeg om koers te zetten. Het Magisterium bevestigt dat het licht uit Verhaags logboek op een oude sterval kan wijzen. De precieze plek volgt uit het leggen van de kaart of uit de gidsen ter plaatse.
 
 | # | Bron | Clue | Wat het onthult |
 |---|---|---|---|
-| 1 | Grote Bibliotheek — Zaal der Stilte | **De Val** | Eeuwen geleden viel er een ster uit de hemel. Niet in zee — in een fjord. |
-| 2 | Tempel van de Drie Manen | **Het Visioen** | Een slang van ijs rond een bevroren meer van sterrenlicht. |
-| 3 | Archief van Valdren | **De Slang** | Een draak in het Noorden, waar expedities nooit terugkeerden. |
-| 4 | Zwarte Markt | **Het Brokstuk** | Pim heeft sterrenglas en een kaartdeel met de doorgang door Hrimmark. |
-| 5 | De Drie Manen (taveerne) | **De Route** | Een zeeman kent de naam van het fjord en hoe je er komt. |
-| 6 | Het Magisterium | **Het Register** | Het *Register der Gevallen Sterren* bevestigt de val en bevat het laatste kaartdeel. |
+| 1 | Grote Bibliotheek **of** Archief van Valdren | **Verhaags bladzijde** | De Fluisterketen herstelt het laatste logboek: schip strandt bij het ijs, verderop schijnt iets onder het oppervlak. |
+| 2 | Tempel van de Drie Manen | **Het Visioen** | Een ademend wezen ligt rond licht onder ijs; geen herkenbare kust. |
+| 3 | Zwarte Markt | **Het Brokstuk** | Pim heeft sterrenglas en een middenstuk van een vaarroute, zonder te weten waar die eindigt. |
+| 4 | De Drie Manen (taveerne) | **De Overlevende** | Bjarne kent Vargheim als laatste haven en weet dat Verhaag te voet verderging. |
+| 5 | Het Magisterium | **Het kistje** | Bjarne gaf hier een laatste stuk kaart en een sterrenglasmonster af. Het oude stervalverslag geeft de spelers een reden om het licht te zoeken. |
+
+**DM-sleutel voor de onthulling:** laat de bronnen geen conclusie uitspreken. Vraag na het derde of vierde stuk: *"Wat denken jullie dat deze gegevens samen betekenen?"* Laat spelers de kaart zelf neerleggen, het noorden aanwijzen en benoemen waarom zij daar willen zoeken. Als zij vastlopen, geef één waarneembaar detail (de passende scheurrand, het sterrenglasmonster of Bjarnes ijsgrens), geen samenvatting van de oplossing.
 
 ---
 
-### Bron 1 — De Grote Bibliotheek: Het Sleutelwiel, Deel II
+### Bron 1 — Bibliotheek óf Archief: Verhaags verkeerd ingebonden bladzijde
 
-*Terug naar de Zaal der Stilte. De boeken herkennen jullie nu.*
+*Dit is één bron, op de plek die de party kiest. In de Grote Bibliotheek wijst de boekenwachter Tobias hen naar Oswins restauratietafel in de Zaal der Stilte. In het Archief van Valdren zit Oswin in de achterkamer tussen de scheepsdossiers. Speel maar één versie; de inhoud en beloning zijn identiek.*
 
-> De Zaal der Stilte is stiller dan eerst. De boekenkasten schuiven niet weg — ze schuiven *naar jullie toe*. Een enkel boek ligt open op de leestafel, alsof het wacht.
+> Meester Oswin Brandt heeft een door zeewater beschadigd logboek uit het wrak van de *Zeemeeuw* opengelegd. Eén bladzijde is ooit in vijf lange stroken gescheurd en door een onkundige restaurator **in de verkeerde volgorde vastgenaaid**. De regels springen van varen naar ijs en weer terug. Oswin knipt het oude draad los; op de rug zijn vijf verschillende stikgaatjes zichtbaar.
 >
-> *Het Sleutelwiel, Deel II. Door Seraphyne Telvahr.*
+> *"Kapitein Verhaag schreef haar laatste bericht hierop. Ik krijg de stroken niet veilig los en goed terug zonder vijf paar handen. Help me de volgorde vinden; daarna kun je lezen wat er echt staat."*
 
-**Challenge:** Investigation / Arcana / History DC 14 *(3 successen voor 2 mislukkingen)*. Elk succes onthult een passage; bij mislukking draait het boek de pagina's weg of fluistert het de verkeerde taal.
+**Waarom de Fluisterketen hier gebeurt:** de spelers houden ieder één kwetsbare strook vast. Ze mogen hun tekst niet tonen of hardop lezen terwijl Oswin de inkt fixeert; korte briefjes en het doorgeven van stroken zijn wel mogelijk. De vijf stoelen zijn de vijf posities op de restauratietafel, met een kaars bij het begin van de bladzijde. Oswin kan aan de stikgaatjes zien **hoeveel stroken** op de juiste plek liggen, maar niet welke tekst waar hoort. Zo zijn de drie rondes en zijn feedback onderdeel van het herstellen van dit ene blad, geen los spel dat hij de groep oplegt.
 
-**Bij succes — De Val:**
+**Speel de Fluisterketen:** gebruik de vijf zinnen, uitdeelvolgorde en drie rondes uit [Sessie9 - Minigames.md](Sessie9%20-%20Minigames.md). De spelers ordenen de stroken; daarna lezen ze de bladzijde van boven naar beneden. Het verslag noemt **geen plaatsnaam**: eerst loopt het schip vast bij de ijsgrens, daarna volgt een gids het witte ijs, en verderop brandt licht onder het oppervlak terwijl iets groots beweegt.
 
-> *"De tweede sleutel viel, en niet uit de hand van een sterveling. Een ster die het hemelvlak doorboorde, gevangen door water dat te koud was om te stromen. Ze zeggen dat het gat in de lucht nog jaren zichtbaar was, boven een fjord waar de golven stilvielen."*
->
-> Kantlijn: *"Ze is niet verdwenen. Ze slaapt. Ze wordt bewaakt. Eén aanraking en ze… neemt je mee. Ik kwam terug. Ik weet niet zeker of ik dezelfde was."*
+**Bij vijf juiste stroken:** losse woorden in de zijmarge vormen meteen een laatste regel: *"Het hoorde mijn stem. Zolang ik sprak, bleef het liggen."* De party krijgt één herkansing op een mislukte flyting-beurt. **Bij een andere volgorde:** Oswin herstelt de bladzijde in een uur; dan worden ook de zijmarge en de vijf gewone zinnen leesbaar, maar de party verdient geen herkansing.
 
-*Dit is een hint naar de Avatar in de Scherf. Laat het bewust vaag.*
+**Kaartdeel 2:** tussen de kaft en de beschadigde bladzijde zit een stuk van Verhaags zeekaart. Oswin had het als bladwijzer gebruikt zonder de route te herkennen. Het toont de ijsgrens en de eerste vaargeul; op de achterkant staat *"Vier expedities. Geen terugkeer over zee."* Hij geeft het bij beide uitkomsten mee omdat de party hem met het logboek hielp.
 
-**Verdieping:**
-- **De Boekenwachter:** Een constructbibliothecaris, *Tobias*, volgt hen stil. Hij helpt alleen als de party fluistert. Luidruchtige spelers worden "uitgeleid".
-- **Het boek test lezers:** het opent pas volledig als een speler hardop de naam van een bondgenoot zegt (echo van het Oog, Sessie 8).
-- **Extra aanwijzing:** in de kantlijn staat een grof schetsje: een fjord met een cirkel erin en vier kruisjes. *(Vier expedities, zie Bron 3.)*
-
+**Oswin zelf:** kortaangebonden, houdt van stilte en thee. Een kopje thee of de naam van de Guildcontact maakt hem sneller spraakzaam. Hij kent **geen naam van de fjord, het wezen of de Scherf** en trekt geen conclusie voor de spelers. Hij herkent het Oog wel als onheilspellend en zegt: *"Doe dat foedraal dicht."* De naam **Nidhrym** horen de spelers pas in Vargheim.
 
 ---
 
@@ -388,135 +407,98 @@ Vijf delen van een oude expeditiekaart liggen verspreid in Greyhawk. De Guild, O
 
 ---
 
-### Bron 3 — Het Archief van Valdren: De Slang van het Noorden
-
-*Dossiers over magische rampen en draken.*
-
-**Toegang:** De archivaris (of de naam van de oude archivaris die de Guild noemde) is hier het beste. Zonder hem: **Persuasion DC 14** of **Investigation DC 15** om de juiste dossiers te vinden.
-
-> Het dossier is dun, vergeeld en verzegeld met was in de vorm van een slang die zijn eigen staart eet.
->
-> *"Rapport over de IJsslang van de Skaldfjord. Vier expedities uitgezonden. Geen terugkeer. Laatste bericht, uit de hand van kapitein Ysolde Verhaag: 'Het meer sluit zich achter ons. Het wezen ligt rond de sterrenput gewikkeld. Het hoort ons ademen. Het hoort alles.'"*
-
-**Dossier — De IJsslang:**
-- Een **white dragon**, maar anders gevormd: lang, slangachtig, een lindworm uit Noorse sagen. Voedt zich op walvissen en schepen.
-- Hij heet **Nidhrym** in de Noorse overlevering — *"de Gnager aan de Wortels"*.
-- Hij ligt al **±400 jaar** op de put waar "de hemel viel". Het is zijn kostbaarste schat. Overlevenden vertellen dat hij zijn prooi laat leven om ermee te spelen, tot hij zich verveelt.
-
-**DM Note:** Dit is de enige geschreven bron die Nidhrym **bij naam** noemt. Het visioen in de Tempel en de tekening rond de Sterrenput op de kaart kunnen de party wel op een slangachtige draak wijzen.
-
-**Verdieping — Meester Oswin Brandt:** De oude archivaris is kortaangebonden, haat lawaai en houdt van thee. Hij weigert te praten tot de party iets meebrengt (thee, een goede anekdote, een zeldzaam boek).
-- Voor de gekozen speelroute volstaat de naam van de Guild-contact of een meegebracht kopje thee om dit gesprek meteen te openen.
-- Het logboek van kapitein Verhaag heeft een **pagina eruit gescheurd**. Oswin weet niet wie. *(Haak: de pagina ligt bij Pim op de Zwarte Markt.)*
-- Hij herkent het Oog en is bang: *"Zet dat weg."*
-
-**Kaartdeel 2:** Oswin heeft het tweede deel van Verhaags kaart als bladwijzer bewaard. Het toont de ijsgrens en de eerste bergpas. Op de achterkant: *"Vier expedities. Spreek met de Slang."*
-
-**Fluisterketen (standaard voor deze sessie):** Gebruik de vijf zinnen en de beginverdeling uit [Sessie9 - Minigames.md](Sessie9%20-%20Minigames.md). Speel **drie rondes**. Per ronde leest ieder zijn eigen kaart, stuurt maximaal één briefje van acht woorden en mogen de spelers kaarten onderling ruilen. Iedereen eindigt met één kaart. Oswin noemt na elke ronde het **werkelijke aantal** kaarten op de juiste stoel. Na ronde 3 leest de groep vanaf de startstoel met de klok mee voor.
-
-- **Alle vijf juist:** Oswin leest de verborgen regel: *"Raak het licht niet aan. Spreek met hem. Hij luistert meer dan hij bijt."* De party krijgt deel 2 en één herkansing op een mislukte flyting-beurt.
-- **Niet alle vijf juist:** Oswin herstelt het logboek zelf. Dat kost een uur of een kleine betaling; de party krijgt deel 2 en de route-informatie alsnog.
-
-
----
-
-### Bron 4 — De Zwarte Markt: Het Brokstuk en de Bergpas
+### Bron 3 — De Zwarte Markt: Het Brokstuk en de Vaargeul
 
 *Een verborgen markt onder de oude kade. Hier worden scheepsvondsten verkocht voordat de stad ze kan opeisen.*
 
 > Tussen lampen vol blauw vuur hangt een stukje perkament achter Pim Vossenstaarts kraam. De rand is precies zo gescheurd als die van de andere kaartdelen. Ernaast ligt een splinter zwart-blauw sterrenglas.
 >
-> *"Het glas kwam uit het Noorden. De kaart zat in dezelfde bergingskist. Het een is koud, het ander leidt je erheen. Ik verkoop ze liever samen."*
+> *"Het glas en de kaart zaten in dezelfde bergingskist. Ik weet niet wat het voorstelt. Maar u staat ernaar te kijken alsof u het wel weet. Ik verkoop ze liever samen."*
 
 **Pim Vossenstaart** is nieuwsgierig en inhalig. Hij wil weten wat er die nacht in het kasteel gebeurde, maar zijn koopwaar is echt. Een zwijgzame koper in een gele mantel heeft hem al een bod gedaan; Pim gebruikt die belangstelling om de prijs hoog te houden.
 
-**Kaartdeel 3:** De handelsroute door Hrimmark, met een doorgang tussen twee gletsjers. Op de achterkant staat in een oude hand: *"Bij de zwarte rots noordwaarts, niet de witte vlakte op."* Dit geeft de party later één concreet aanknopingspunt voor de gidsen of de remorhaz-route.
+**Kaartdeel 3:** Een handelsroute langs een koude kust, met een smalle vaargeul tussen twee gletsjerkusten. Pas als de spelers de stukken passen, is te zien dat dit **Hrimmark** is. Op de achterkant staat in een oude hand: *"Bij de zwarte rots noordwaarts, niet de witte vlakte op."* Dat is later een bruikbare koersaanwijzing.
 
-**Het Brokstuk:** Een splinter sterrenglas die bij het Oog zacht trilt. Hij wijst ruwweg naar het noorden, maar heeft verder geen gevechtseffect.
+**Het Brokstuk:** Een splinter sterrenglas die bij het Oog zacht trilt. In Elowens kistje ligt een tweede splinter met dezelfde zwarte blauwe aders. Het glas wijst zelf **geen richting** aan en heeft geen gevechtseffect.
 
 **Hoe de party het kaartdeel bemachtigt:**
 - **100 gp:** Pim verkoopt kaartdeel en Brokstuk zonder vragen.
 - **Een waargebeurd verhaal over het kasteel:** Persuasion DC 13. Bij succes geeft hij het kaartdeel in ruil voor de roddel; het Brokstuk kost dan nog 50 gp. Bij falen blijft zijn vraagprijs 100 gp.
 - **Een Guild-gunst:** de contact regelt beide voorwerpen zonder betaling.
 
-Wie geen deal sluit, hoort van Pim nog wel dat de doorgang door **Hrimmark** loopt. Ze kunnen met Bjarnes route en de andere kaartdelen verder. Laat de gele mantel desgewenst later terugkomen; deze koper hoeft de scène niet te vertragen.
+Wie geen deal sluit, mag de scheurrand en de getekende gletsjerkust kort bekijken. Dat is genoeg om andere stukken te herkennen; Pim kan de bestemming niet uitleggen. Laat de gele mantel desgewenst later terugkomen; deze koper hoeft de scène niet te vertragen.
 
 ---
 
-### Bron 5 — De Taveerne "De Drie Manen": Het Gerucht
+### Bron 4 — De Taveerne "De Drie Manen": Het Gerucht
 
 *Een oude zeeman, bevroren littekens op zijn handen, zit alleen in een hoek.*
 
-> *"Skaldfjord? Daar vaar je niet heen. Daar word je gehaald."*
+> *"Verhaags schip? Ik was erop. Tot de laatste haven."*
 >
 > Hij tilt zijn kroes. Leeg.
 
 **Benadering:** Bjarne nodigt de party uit voor **Liar's Dice**. Een rondje geven of een eerlijk gesprek blijft mogelijk voor spelers die niet willen dobbelen.
 
-**Wat hij vertelt:**
+**Wat hij uit eigen ervaring vertelt:**
 
-> *"Je volgt de kust tot de ijsgrens. Dan de bergen in, Hrimmark. De fjord heet Skaldfjord. Een dag lopen van de laatste nederzetting. Je weet dat je er bent als de stilte zo hard is dat je hart erdoor klinkt."*
+> *"We hielden de koude kust aan bakboord. Bij de zwarte rots lag nog een doorgang. Daarna kwam Vargheim: een handvol dwergenhuizen in de sneeuw. Ons schip kon daar niet verder. Ysolde ging met een gids het ijs op; ik bleef achter. Waar zij heen ging, weet ik niet."*
 >
-> *"En kijk niet in het water. Niet bij het tweede getij. Dan kijkt het terug."*
+> *"Het ijs bewoog op het tweede getij. Ik keek naar beneden en iets keek terug."*
 
-**Reis (belangrijk):** Het duurt ca. **9 dagen** te voet vanuit Greyhawk. Met paarden of een schip korter. Zie Chapter III.
+**Reis (belangrijk):** De zeereis van Greyhawk naar Vargheim duurt circa **4–6 dagen**; te voet duurt het ongeveer 9 dagen. Zie Chapter III.
 
-**Verdieping — Oude Bjarne:** De zeeman praat in stukken: elke ronde die hij verliest, onthult hij een deel van wat hij weet (de naam, de route, de waarschuwing). Hij heeft een **litteken in de vorm van een slangenbeet** op zijn hand: hij was bij de laatste expeditie. Hij liet de rest sterven.
-- Als iemand dat durft te vragen (**Insight DC 14**): hij breekt en geeft alles prijs, maar vraagt de party de naam van zijn kapitein te onthouden.
+**Verdieping — Oude Bjarne:** De zeeman praat in stukken: elke ronde die hij verliest, onthult hij een deel van wat hij weet (de zwarte rots, Vargheim, de waarschuwing). Hij heeft een **litteken in de vorm van een slangenbeet** op zijn hand. Hij bleef bij het schip terwijl Ysolde en de anderen verdergingen; hij draagt die keuze als schuld.
+- Als iemand dat durft te vragen (**Insight DC 14**): hij bekent dat hij niet achter hen aanging en vraagt de party Ysoldes naam te onthouden. Hij kan niet vertellen wat er voorbij Vargheim ligt.
 
-**Kaartdeel 4:** Bjarne bewaart het vierde deel van de kaart. Het toont de noordelijke doorgang richting de fjord. Op de achterkant staat *"Tweede getij"*. Hij zet het in als prijs bij Liar's Dice.
+**Kaartdeel 4:** Bjarne bewaart het vierde deel van de kaart. Het toont Vargheim, waar de vaarroute eindigt en de tocht over het bevroren fjord begint. Op de achterkant staat *"Tweede getij"*. Hij zet het in als prijs bij Liar's Dice.
+
+**Het spoor naar het Magisterium:** Ysolde scheurde vóór haar tocht de noordelijke hoek van de zeekaart af en borg die met een kopie van een oud stervalverslag op in een verzegeld koperen kistje: mocht zij verdwijnen, dan kon iemand haar doel nog vinden. Zij gaf het kistje aan Bjarne. Hij liet het na zijn terugkeer bij het Magisterium achter. **Na het dobbelspel, ook als de party verliest,** zegt hij: *"Vraag daar naar Verhaag. Ik wilde haar laatste kistje niet langer bij me houden."* Hij weet niet wat erin zit.
 
 **Liar's Dice (standaard voor deze sessie):** Vijf spelers rollen elk één verborgen d6; Bjarne rolt er vijf. De party mag over de eigen stenen overleggen. Een bod is *"minstens X stenen met waarde Y"*; verhoog X of houd X gelijk en verhoog Y. Enen zijn gewone enen. Om de beurt bieden de party en Bjarne totdat iemand *"Leugenaar!"* roept. Toon alle stenen: klopt het bod, dan wint de bieder; anders de uitdager. **Schud voor ieder van de drie rondes opnieuw; niemand verliest dobbelstenen.** Wissel de woordvoerder van de party af. Insight DC 13 toont Bjarnes litteken-tic als hij bluft.
 
 - **Twee of drie rondes gewonnen:** Bjarne geeft deel 4. Bij drie vertelt hij ook over Ysolde.
-- **Nul of één gewonnen:** hij noemt de naam en route toch. Het kaartdeel vraagt een rondje, een klein bedrag of een oprecht antwoord op de vraag waarom zij naar de fjord gaan.
+- **Nul of één gewonnen:** hij vertelt alsnog wat hij zelf zag. Het kaartdeel vraagt een rondje, een klein bedrag of een oprecht antwoord op de vraag waarom zij het ijs op willen.
 
 **Props:** 10 d6, twee bekers en een kroes.
 
 ---
 
-### Bron 6 — Het Magisterium: Het Register der Gevallen Sterren
+### Bron 5 — Het Magisterium: Verhaags achtergelaten kistje
 
-*De raad van magiërs bewaart waarnemingen van hemelverschijnselen. Een stuk van Verhaags kaart is ooit als bewijsmateriaal aan het Register gehecht.*
+*Dit is het laatste spoor van kapitein Verhaag in Greyhawk. Zij liet de afgescheurde noordhoek van haar kaart en een oud stervalverslag bij Bjarne achter voordat ze het ijs op ging. Hij gaf het verzegelde kistje na zijn terugkeer af bij het Magisterium. Dat is waarom deze instelling een kaartdeel heeft; ze heeft de expeditie niet zelf opgelost.*
 
-> Magister Elowen Thorne ontvangt jullie in een zaal met koperen hemelringen en gesloten vitrines. Haar blik blijft hangen op het foedraal.
+**Waarom de party hierheen gaat:** Bjarne noemt het kistje na het dobbelspel, ongeacht de uitslag: *"Ik heb haar laatste kistje niet gehouden. Vraag bij het Magisterium naar Verhaag."* Als de party Bjarne overslaat, herkent Elowen de naam Verhaag uit Oswins bladzijde of het sterrenglas van Pim en haalt dezelfde depotdoos op.
+
+> Magister Elowen Thorne zet een klein koperen kistje op tafel. Op het deksel staat **Y. Verhaag** gekrast. Binnen liggen een zwartblauw glassplintertje, een gevouwen stuk zeekaart en een droog stukje papier.
 >
-> *"Dat voorwerp fluistert. Als u vraagt naar een gevallen ster, wil ik eerst weten waarom u die zoekt — en of u begrijpt wat u bij u draagt."*
+> *"Een zeeman bracht dit jaren geleden. Ik kon het glas niet plaatsen en kende de rest van de kaart niet. Misschien kunnen jullie er meer mee dan ik."*
 
-**Elowen** is zorgvuldig, direct en meer bezorgd om de veiligheid van de stad dan om regels. Zij kent de ware aard van het Oog niet. Ze wil drie dingen horen: **waarom** de party zoekt, **wat** zij al weet en **hoe** zij het Oog tijdens het onderzoek gesloten houdt. Laat spelers vrij antwoorden; dit is een gesprek, geen formulier of extra minigame.
+**De inhoud, zonder check of minigame:**
 
-**Toegang tot het Register:**
-- Een eerlijke uitleg en een plan om het Oog in het foedraal te houden: **Persuasion DC 14**. Geef voordeel als de party twee concrete aanwijzingen noemt, bijvoorbeeld Verhaags naam en de Skaldfjord.
-- Een overtuigende vergelijking van het sterrenglas met een kaartdeel: **Arcana of History DC 14**.
-- Een aanbeveling van de Guild of Oswin: Elowen toont het Register zonder check, zolang het Oog gesloten blijft.
+- **Het papier:** *"Waarneming uit het jaar 412: een vallend licht boven de noordelijke ijszee. Nog zeven nachten daarna scheen er blauw licht door het ijs. Geen teruggevonden inslagsteen."* Dit geeft de spelers een concreet verband tussen het raadsel uit Sessie 5, Verhaags licht onder het ijs en een oude sterval. Het verslag noemt **geen fjord, draak of Scherf**.
+- **Het sterrenglas:** dezelfde zwarte blauwe glans als Pims Brokstuk. Wie beide stukken naast elkaar houdt, ziet dezelfde aders door het materiaal lopen. Elowen kan bevestigen dat ze bij elkaar horen; ze kan niet zeggen waar het vandaan kwam.
+- **Kaartdeel 5:** het noordelijke uiteinde van Verhaags zeekaart. Een donkere cirkel heeft het opschrift **Sterrenput**. De gescheurde rand past aan de andere delen; op de samengestelde kaart loopt de route vanaf Vargheim over het ijs naar die cirkel. **Laat de spelers de delen zelf aanleggen en benoemen wat zij denken dat de cirkel is.**
 
-Bij een mislukte check biedt zij **begeleide inzage** aan in ruil voor een schriftelijke belofte om later verslag te doen. Ze vraagt desgewenst of het Oog een nacht kan blijven, maar dat is een voorstel, geen voorwaarde. De informatie en het kaartdeel blijven bereikbaar.
+**Elowen:** zorgvuldig en nieuwsgierig, maar geen opdrachtgever of poortwachter. Zij vraagt de party het Oog in het foedraal te houden zodat haar instrumenten niet op hol slaan. Ze geeft het kaartdeel mee en vraagt alleen om na de reis te vertellen wat zij vinden. De party hoeft niets te beloven om het fragment te krijgen. Hebben ze weinig andere kaartdelen, dan blijft dit stuk bruikbaar; in Vargheim kunnen gidsen het laatste traject aanwijzen.
 
-**Het Register:**
-
-> *"Jaar 412 van het Derde Tijdperk. Een ster viel boven de Skaldfjord, Hrimmark. Het licht bleef zichtbaar onder het water toen het eerste ijs vormde. Het onderzoeksvaartuig keerde niet terug. De inslagplaats is gemarkeerd aan het noordelijke uiteinde van de fjord."*
-
-Aan de binnenkant van de achterkaft zit een verkleurd perkament vast. Het is geen illustratie van het Register: de scheurrand past precies bij de stukken die de party draagt. Elowen beseft dat haar archief een deel van een veldkaart heeft bewaard.
-
-**Kaartdeel 5 — beloning:** Elowen maakt het perkament los en geeft het mee voor het veldonderzoek, op voorwaarde dat de party later vertelt wat zij aantreft. Het toont de **Sterrenput** in het noorden van de Skaldfjord, omcirkeld met inkt. Wie de eerdere delen heeft, ziet nu de volledige route. Wie stukken mist, krijgt alsnog de exacte bestemming uit Elowens uitleg.
-
-**Extra aanwijzing voor de flyting:** In de marge staat: *"De Slang bewaakt de ster, maar heeft haar nooit durven aanraken."* Een speler die dit tegen Nidhrym gebruikt, krijgt eenmaal voordeel op zijn flyting-check.
+**Bruikbaar in de flyting:** naast de cirkel staat in Verhaags hand: *"De wachter cirkelde om het licht. Hij raakte het niet aan."* Een speler die dit later scherp tegen Nidhrym gebruikt, krijgt eenmaal voordeel. Elowen weet niet wie of wat die wachter is.
 
 ---
 
 ### Wanneer de Party de Route Kent
 
-> De stukken vallen op hun plek. Een ster valt in een fjord. Een slang rolt zich om de put. Een zeeman fluistert een naam: **Skaldfjord**.
+Leg de gevonden stukken op tafel en vraag de spelers: *"Welke plek zoeken jullie nu, en wat doet jullie denken dat het licht daar ligt?"* Accepteer een redelijke hypothese; hun antwoord mag nog onvolledig zijn. De namen **Skaldfjord** en **Sterrenput** worden zichtbaar wanneer de juiste stukken naast elkaar liggen. Niemand in Greyhawk zegt uit zichzelf dat dit de bestemming is.
 
 **Antonius:**
 
-> *"Het Hoge Noorden. De ijsgrens, dan Hrimmark. Dat is… ver."*
+> *"Als jullie die stukken goed hebben gelegd, is dat ver noordelijk van hier."*
 >
 > Een stilte.
 >
 > *"Ik zal jullie niet tegenhouden. Ik zal jullie ook niet kunnen helpen. Maar als jullie vertrekken — neem warme kleding mee. En neem elkaar mee. Namen. Herinner ze."*
 
-**Met alle vijf kaartdelen** zien de spelers de volledige route en de inktcirkel bij de Sterrenput. Twee of meer delen plus Bjarnes uitleg zijn genoeg om Vargheim te bereiken. Elowens Register of een gids wijst de laatste etappe. De kaartdelen leveren bovendien details op die in de flyting bruikbaar zijn.
+**Met alle vijf kaartdelen** zien de spelers de volledige route en de donkere cirkel bij de Sterrenput. Twee of meer delen plus Bjarnes herinnering zijn genoeg om Vargheim te bereiken. Het oude stervalverslag in Elowens kistje helpt hen besluiten waarom die cirkel ertoe doet. Daar kunnen de gidsen de laatste etappe duiden. De kaartdelen leveren bovendien details op die in de flyting bruikbaar zijn.
 
 ---
 
@@ -539,11 +521,11 @@ Gebruik 1–2 om tempo te houden:
 
 | Scène | Materiaal | Uitkomst |
 |---|---|---|
-| **Guild-confrontatie** | Het register en [kaartdeel 1](Assets/Kaart-Skaldfjord-5-delen-portret.png) | Eerlijkheid levert het eerste deel en informatie over Antonius op. |
-| **Fluisterketen bij Oswin** | Vijf zinkaarten, briefjes, pennen, startvoorwerp, kaartdeel 2 | Oswin geeft deel 2; een perfecte volgorde onthult zijn waarschuwing en geeft een herkansing in de flyting. |
-| **Zwarte Markt bij Pim** | Kaartdeel 3 en het Brokstuk | De party koopt of ruilt het deel met de route door Hrimmark. |
-| **Liar's Dice met Bjarne** | Tien d6, twee bekers, kaartdeel 4 | Twee gewonnen rondes leveren deel 4 op; de route blijft altijd beschikbaar. |
-| **Magisterium bij Elowen** | Register en kaartdeel 5 | Het laatste deel markeert de Sterrenput. |
+| **Guild-confrontatie** | Het register en [kaartdeel 1](Assets/Zeekaart-Skaldfjord-5-delen-portret.png) | Eerlijkheid levert het eerste deel en informatie over Antonius op. |
+| **Verhaags bladzijde bij Oswin** | Vijf papieren stroken, briefjes, pennen, restauratietafel, kaartdeel 2 | In Bibliotheek of Archief herstelt de party dezelfde bladzijde; een perfecte volgorde toont de onderste regel en geeft een herkansing in de flyting. |
+| **Zwarte Markt bij Pim** | Kaartdeel 3 en het Brokstuk | De party koopt of ruilt het kustfragment. |
+| **Liar's Dice met Bjarne** | Tien d6, twee bekers, kaartdeel 4 | Twee gewonnen rondes leveren deel 4 op; Bjarnes eigen herinneringen blijven beschikbaar. |
+| **Magisterium bij Elowen** | Verhaags kistje, sterrenglas en kaartdeel 5 | Bjarne heeft het kistje afgegeven; het oude verslag verbindt het licht onder het ijs met een sterval. |
 | **Flyting met Nidhrym** | Zijn vijf persoonlijke steken en een scoreblad met vijf vakjes | Drie successen uit vijf geven doorgang en veilige terugkeer. |
 
 De vijf zinnen en de uitdeelvolgorde voor de Fluisterketen staan in [Sessie9 - Minigames.md](Sessie9%20-%20Minigames.md). De spelregels voor Liar's Dice staan ook hierboven bij Bjarne.
@@ -562,9 +544,29 @@ De party kan de Scherf bemachtigen door **sluipen**, **de flyting (het duel met 
 
 ### De Reis naar het Noorden
 
-*Ca. 9 dagen te voet vanuit Greyhawk. Met transport (schip, wagen, rijdieren) 4–6 dagen. Vertel de tocht deze sessie als korte montage: het groen verdwijnt, het Oog trekt noordwaarts en het noorderlicht verschijnt boven de ijsgrens.*
+**Laat de party in Greyhawk kiezen tussen zee en land.** Beide routes eindigen in Vargheim; pas daar begint de tocht over het dichtgevroren fjord.
 
-**Kies hoogstens één extra reisgebeurtenis als er tijd over is.** Vargheim en de remorhaz zijn de vaste haltes.
+#### Over zee — een schip huren
+
+Aan de noordkade van Greyhawk ligt de *IJsvogel*, een kleine kustvaarder van **kapitein Runa Zoutmantel**. Bjarne kan haar naam noemen; anders wijst de havenmeester de party naar haar schip. Runa kent de vaargeul **tot Vargheim**, maar heeft nooit voorbij het dorp gevaren en weet niets van de Sterrenput. Een redelijke schets van de noordkust of Bjarnes aanwijzingen zijn genoeg om haar de bestemming te laten accepteren.
+
+> *Runa tikt tegen de kaart. “Vargheim kan ik halen. Daarna is het geen zee meer waar mijn kiel iets te zoeken heeft. Vijfenzeventig goud voor jullie allemaal: vijfentwintig nu, de rest bij aankomst. Morgenochtend vertrekken we.”*
+
+**Prijs:** 75 gp voor de hele party, inclusief een slaapplaats in het ruim en eenvoudig eten; 25 gp bij vertrek en 50 gp bij aankomst. Een ongebruikte **Guild-gunst** kan de overtocht voor de groep regelen. Heeft de party minder dan 75 gp, dan neemt Runa hen voor **25 gp en hulp aan dek** mee. Hebben ze zelfs dat niet, dan mogen ze de hele overtocht met dekwerk betalen. Laat ieder één taak kiezen (zeilen, wachtlopen, koken of repareren) en beschrijf de tocht zonder extra checks.
+
+**Reistijd:** 4–6 dagen. Vertel kort hoe de kust rotsiger wordt, de vaargeul smaller, ijsschotsen verschijnen en boven de ijsgrens het noorderlicht gloeit. Runa legt aan in Vargheim, de laatste bevaarbare haven. Ze wacht daar hoogstens één dag; voor een terugreis moet de party opnieuw met haar afspreken of ander vervoer zoeken.
+
+#### Over land — de hinderlaag
+
+**Reistijd:** circa 9 dagen langs de noordelijke kustweg. Op dag drie, bij een smalle doorgang tussen rotswand en water, hebben struikrovers een omgevallen boom over het pad gelegd. Ze kennen de party en hun doel niet; ze willen geld, eten en warme kleding van reizigers.
+
+> *Een boomstam verspert de weg. Van achter de rotsen klinkt een stem: “Beurzen op de grond, mantels erbij. Dan mogen jullie door.” Boven jullie schuift grind. Twee boogschutters hebben de doorgang al in het vizier.*
+
+**Speel dit in 10–15 minuten.** Laat de spelers eerst reageren: onderhandelen (**Persuasion of Intimidation DC 14**), een omweg zoeken (**Survival DC 14**, kost een halve dag), de bandieten misleiden of vechten. Bij een deal nemen de rovers bijvoorbeeld 20 gp of een deel van de gewone proviand en laten ze de groep verder gaan. Lukt een list of onderhandeling goed, dan houden de spelers alles. Bij gevecht: **één roverhoofdman** (AC 15, HP 45, aanval +5, 1d8+3 schade) en **zes rovers** (AC 13, HP 14, aanval +4, 1d6+2 schade), waarvan twee met bogen op de rotsen staan. Na de val van de hoofdman of drie rovers vluchten de overigen. Ze vechten voor buit, niet tot de dood.
+
+Als de rovers winnen, pakken ze hoogstens goud, voedsel of gewone uitrusting; **kaartdelen, het Oog en andere verhaalvoorwerpen blijven bij de party**. Een verlaten kar achter de rotsen bevat genoeg eenvoudige proviand om Vargheim alsnog te halen. Beschrijf daarna de laatste dagen als montage: de weg verdwijnt onder sneeuw en eindigt bij het dwergendorp aan de ijsgrens.
+
+**Kies hoogstens één extra reisgebeurtenis als er tijd over is.** De hinderlaag hoort altijd bij de landroute; Vargheim en de remorhaz zijn de vaste haltes op beide routes.
 
 | d6 | Gebeurtenis | Uitkomst |
 |---|---|---|
@@ -577,13 +579,26 @@ De party kan de Scherf bemachtigen door **sluipen**, **de flyting (het duel met 
 
 #### De Laatste Nederzetting — Vargheim
 
-> Een handvol langhuizen van steen en zwart hout, half begraven onder de sneeuw. Rook uit twee schoorstenen. Rondom de huizen staan runenstenen, schuin en verweerd. De bewoners zijn allemaal **dwergen**: breed, bebaard, met vlechten vol ijzeren ringen. Ze kijken jullie aan alsof ze al een tijdje op jullie wachten, en niet blij zijn dat het eindelijk zover is.
+> Ver in het noorden, waar de vaargeul ophoudt en de zee dichtvriest, staat een handvol langhuizen van steen en zwart hout, half begraven onder de sneeuw. Achter de kade strekt het ijs zich uit tot aan de horizon. Rook uit twee schoorstenen. Rondom de huizen staan runenstenen, schuin en verweerd. De bewoners zijn allemaal **dwergen**: breed, bebaard, met vlechten vol ijzeren ringen. Ze kijken jullie aan alsof ze al een tijdje op jullie wachten, en niet blij zijn dat het eindelijk zover is.
 >
 > *"Jullie gaan naar de Slang."*
 >
 > Geen vraag.
 
 **De Dwergen van Vargheim:** Noorse, stugge dwergen. Weinig woorden, veel mede, nog meer koppigheid. Ze respecteren wie hun beledigingen kan weerstaan, hun bier drinkt en zijn woord houdt. Ze haten vleiers, leugenaars en mensen die naar hun goud staren.
+
+**Wat de party hier ontdekt:** de dwergen noemen de wachter van de Sterrenput **Nidhrym**. Hildr kent zijn naam uit de winterverhalen; zij weet niet wat de Astrale Scherf is. De naam, Verhaags ademende wezen en Elowens donkere cirkel zijn drie gegevens die de spelers nu zelf kunnen verbinden. Vraag: *"Is dit de plek die jullie op de kaart aanwezen?"*
+
+**Een korte ronde door het dorp (kies wat de spelers aanspreekt; elk bezoek kost hooguit enkele minuten aan tafel):**
+
+| Plek | Wat er gebeurt | Concrete opbrengst |
+|---|---|---|
+| **De bevroren kade** | Een aangemeerd schip heeft rijp tot boven de reling. Een visser wijst op een scheur die vannacht twintig passen verschoof. | De groep ziet dat het ijs door het getij beweegt. Dat verklaart Bjarnes waarschuwing en waarom een kaart alleen niet genoeg is. |
+| **Brokks smidse** | Brokk smeedt ijskrammen onder laarzen en geeft een vuurpot mee als de party hem helpt kolen uit een vastgevroren schuur te halen of 10 gp betaalt. | Met ijskrammen heeft één vooroplopende speler voordeel op de eerste Survival-check op het ijs; de vuurpot kan de remorhaz afleiden. |
+| **Sigruns langhuis** | Sigrun schenkt mede en vraagt wat de party bij Nidhrym gaat zeggen. Een oprechte toost of één scherpe oefensteek wint de tafel. | Zij vertelt de **Oude Vorm** en geeft één speler een bruikbare openingszin voor de flyting. |
+| **Hildrs runensteen** | Vier inkepingen staan voor vier verdwenen tochten. De vijfde inkeping is nog leeg. | Hildr noemt Nidhryms naam, de Sterrenput en de Vrede van het Licht. Ze legt geen verband met de Scherf; dat is aan de party. |
+
+Laat de spelers hoogstens twee plekken uitspelen als de avond lang wordt. Alle noodzakelijke informatie over de Oude Vorm kan Hildr ook aan de kade geven.
 
 **NPC — Hildr Ravnsdottir, dorpsoudste:** Een oude dwergin met gebroken handen en grijze vlechten. Haar zoon was de laatste die de Slang zag.
 
@@ -603,8 +618,8 @@ De party kan de Scherf bemachtigen door **sluipen**, **de flyting (het duel met 
 |---|---|---|
 | **Brokk Aambeeld** | Smid | Verkoopt vuurpotten, *fire arrows* en *alchemist's fire* (2× per speler tegen 25 gp). Praat alleen over de prijs. |
 | **Sigrun Mjodbaard** | Brouwster, houdster van het langhuis | Schenkt mede. Organiseert de flyting-avond. Wie niet meedrinkt, krijgt een koude blik. |
-| **Orm Eenoog** | Jager en gids | Brengt de party naar de rand van de bevroren zee. Praat niet tijdens het lopen. |
-| **Kelda Asbaard** | Jonge spoorzoeker en gids | Praat graag, kent de witte ijsroute en heeft nog nooit zo ver naar de fjord durven gaan. |
+| **Orm Eenoog** | Jager en gids | Leidt de party vanuit Vargheim over de bevroren zee. Praat niet tijdens het lopen. |
+| **Kelda Asbaard** | Jonge spoorzoeker en gids | Praat graag, kent de markeringen op de eerste ijsvlakte en heeft de rotsrichel nog nooit bereikt. |
 
 **Dwergen-etiquette:**
 - **Doen:** onderarmgroet, meedrinken (**Constitution DC 12**, of **Performance DC 13** voor een goede toost), eerlijk zijn, een goede belediging.
@@ -615,11 +630,17 @@ De party kan de Scherf bemachtigen door **sluipen**, **de flyting (het duel met 
 
 **Wat Vargheim kan bieden:** Warme kleding, vuurpotten (Brokk), mede (Sigrun) en **twee betaalde gidsen: Orm en Kelda, 25 gp per persoon**. Laat Kelda vóór vertrek een klein persoonlijk detail met een speler delen. Beide gidsen brengen de party tot de rotsrichel, maar gaan niet de drakenhal in.
 
+**Waarom gidsen verstandig zijn — zeg dit vóór de keuze hardop via Orm:**
+
+> *"De kaart kent de kust. Zij kent het ijs van vandaag niet. Het getij schuift de scheuren elke nacht. Wit ijs draagt je; zwart ijs is water met een dun vel. En waar stoom opstijgt, jaagt iets onder je voeten. Kelda kent de markeringen, ik ken de omwegen. Je kunt zonder ons gaan. Dan kies je zelf waar je op stapt."*
+
+**Aan tafel:** met Orm en Kelda kiest de groep bij de oversteek één veilige lijn; geef voordeel op de eerste Survival-check en laat Orm de rotsrichel als vluchtpunt aanwijzen bij de remorhaz. Zonder gidsen doet de groep vóór die ontmoeting **twee groepschecks Survival DC 14** (of een overtuigende andere aanpak). Bij een mislukking verliezen ze een uur en een vuurpot/voorraad, of begint één personage de remorhaz-vlucht op een ongunstige positie. **De weg blijft vindbaar** en de flyting blijft mogelijk. Zo hebben gidsen een concreet voordeel zonder de zelfstandige keuze af te straffen.
+
 ---
 
 ### De Bevroren Zee — De Remorhaz
 
-*Tussen Vargheim en de Skaldfjord ligt een dagreis over een bevroren zee. Eronder woont iets dat de dwergen de **Gloeiende Duizendpoot** noemen: een remorhaz.*
+*Vanaf Vargheim is de Skaldfjord volledig bevroren. Naar de Sterrenput is het een dagreis te voet over het ijs. Eronder woont iets dat de dwergen de **Gloeiende Duizendpoot** noemen: een remorhaz.*
 
 **De Waarschuwing (Orm Eenoog, voor vertrek):**
 
@@ -634,15 +655,17 @@ De party kan de Scherf bemachtigen door **sluipen**, **de flyting (het duel met 
 - Zwarte, nat glanzende plekken waar het ijs dun is.
 - Een zacht, regelmatig *tikken* onder de voeten, als duizend nagels op glas.
 
-**De Aanval**
+**De Aanval (als Orm en Kelda meegaan)**
 
 > De stilte breekt. Het ijs onder jullie trilt. Een zwarte scheur kruipt tussen jullie voeten door.
 >
 > Dan barst het onder Kelda open. Een segment van gepantserd, rood gloeiend chitine rijst op uit de diepte. Kaken klappen dicht; de remorhaz slokt haar op en verdwijnt half terug onder het ijs. Orm schreeuwt en wijst naar de zwarte rotsrichel.
 
-**Standaard voor deze sessie — vluchtuitdaging:** Kelda wordt opgegeten. De spelers kiezen onmiddellijk hoe ze reageren. Om de rotsrichel te bereiken hebben ze **drie successen vóór twee mislukkingen, DC 14** nodig. Survival vindt wit ijs; Athletics trekt een bondgenoot mee; Stealth beperkt trillingen. Een slimme afleiding met een zware steen kan zonder worp één succes geven. Elke mislukking kost terrein of een voorwerp; bij twee mislukkingen krijgt een personage een beet of breekt het ijs onder hem. De rotsrichel is het duidelijke eindpunt.
+**Zonder gidsen:** vervang Kelda in de voorleestekst door *"de voorste speler"*. De remorhaz schiet onder die speler omhoog; geef **Dex save DC 13** om de kaken te ontwijken. Laat geen afwezige gids sterven. De groep ziet zelf de rotsrichel, maar bereikt haar vanaf een ongunstige positie als de eerdere navigatie mislukte.
 
-**Als de party blijft vechten:** gebruik het statblock hieronder. Orm blijft de vluchtweg aanwijzen. Een gevecht duurt langer en maakt Nidhrym bij aankomst wakker.
+**Standaard voor deze sessie — vluchtuitdaging:** Met gidsen wordt Kelda opgegeten. De spelers kiezen onmiddellijk hoe ze reageren. Om de rotsrichel te bereiken hebben ze **drie successen vóór twee mislukkingen, DC 14** nodig. Survival vindt wit ijs; Athletics trekt een bondgenoot mee; Stealth beperkt trillingen. Een slimme afleiding met een zware steen kan zonder worp één succes geven. Elke mislukking kost terrein of een voorwerp; bij twee mislukkingen krijgt een personage een beet of breekt het ijs onder hem. De rotsrichel is het duidelijke eindpunt.
+
+**Als de party blijft vechten:** gebruik het statblock hieronder. Orm wijst de vluchtweg aan als hij erbij is. Een gevecht duurt langer en maakt Nidhrym bij aankomst wakker.
 
 **Optioneel gevecht** *(zie Statblock: Jonge Remorhaz, CR 6)*
 - **Hinderlaag:** de remorhaz voelt trillingen op 60 ft. De party kan hem ontlopen met **Stealth DC 14** (groep) en traag lopen (halve snelheid). Bij een mislukking komt hij onder hen uit het ijs omhoog (**Dex save DC 13** of 1d6 bludgeoning en prone).
@@ -656,7 +679,7 @@ De party kan de Scherf bemachtigen door **sluipen**, **de flyting (het duel met 
 - **Dwergenkennis:** Orm kent de zwarte-ijsroute. Wie hem meeneemt, krijgt **advantage** op de Stealth-check.
 - **Geen vuur- of koudetruc:** hij is immuun voor vuur en kou. Het enige dat werkt is raak slaan, afleiden en vluchten.
 
-**Na afloop:** als de party de remorhaz doodt, laat hij een **gloeiende klier** achter (verkoopbaar, ca. 300 gp; een alchemist kan er een *Potion of Fire Resistance* van maken). Als ze vluchten, is Kelda's dood het gevolg dat bij Orm en de party blijft.
+**Na afloop:** als de party de remorhaz doodt, laat hij een **gloeiende klier** achter (verkoopbaar, ca. 300 gp; een alchemist kan er een *Potion of Fire Resistance* van maken). Als ze met gidsen vluchten, is Kelda's dood het gevolg dat bij Orm en de party blijft.
 
 ---
 
@@ -739,93 +762,71 @@ Een mislukte beurt lokt een *Tweede steek* uit, maar beëindigt het duel niet. L
 
 #### Nidhryms persoonlijke steken
 
-Nidhrym is ijdel, wreed en al vierhonderd winters verveeld. Hij vraagt wie de party stuurt en wat zij uit zijn put willen meenemen. Gebruik daarna voor iedere speler de **Eerste steek** hieronder. Bij een mislukte beurt volgt diens **Tweede steek**. Een antwoord dat Nidhryms spot persoonlijk omkeert, geeft voordeel op de check uit de flyting.
+Nidhrym is ijdel, wreed en al vierhonderd winters verveeld. Hij vraagt eerst naar **hun namen** en wat zij uit zijn put willen meenemen. Zo weet hij hoe hij ze kan aanspreken. Hij heeft hun verleden in Greyhawk niet gezien: gebruik alleen wat hij aan hun uiterlijk, woorden en gedrag kan aflezen. **Bartje en Pippin zijn vrouwen.** Als Kelda niet is gestorven of een speler een detail niet heeft getoond, vervang dat detail ter plekke. Lees per speler de **Eerste steek**; een mislukte beurt lokt de **Tweede steek** uit. Beloon een repliek die de kern van de aanval omdraait, niet slechts een rijm.
 
 ---
 
 **🛡️ Paladennis — Human Paladin**
 
-*Zwak punt: zijn eed en zijn zwijgende god.*
+*Zwak punt: een menselijke paladijn in volledige bepantsering, die aan zijn eed gehouden kan worden. Nidhrym kent de inhoud van die eed niet vanzelf.*
 
-> **Eerste steek:**
-> *"Paladennis! Half gebed, half buurman, in blinkend blik, je eed is luid en je adem kort.*
-> *Je god zwijgt in dit land; hij kent de weg niet, en ik heb hem nooit gemist.*
-> *Zovelen kwamen hier met licht en een heilig doel,*
-> *nu slapen ze als schuim in mijn ijs, hun schild een lege kom, hun eed een koud gevoel."*
+> **Eerste steek:** *"Paladennis. Mensenkind in zoveel ijzer dat ik de smid nog hoor zuchten. Jij noemt het een harnas; ik noem het een blikje met een eed erin. Je god mag je naam kennen, mijn ijs kent vooral je gewicht. Zoveel paladijnen kwamen hier met licht en rechtvaardigheid. Ik bewaar hun schilden. Beloof me dat jij als laatste vlucht, ridder. Dan hoef ik alleen maar naar het gerammel te luisteren."*
 >
-> **Tweede steek:**
-> *"Zeg me, kale Dennis: de 'Pala' heb je vast van je god geleend, en hij wil hem terug. En als je eed breekt, wie raapt dan de stukken op? Hij schrijft je niet eens een brief."*
+> **Tweede steek, als Kelda is verzwolgen:** *"Je eed bleef heel toen de dwerg verdween. Zij niet. Zeg haar naam voordat je mij een gelofte voorhoudt."*
+>
+> **Tweede steek, zonder dat verlies:** *"Jij kunt een belofte niet breken om je eigen huid te redden. Handig voor mij. Welke belofte durf je hier, voor je vrienden, hardop te doen?"*
 
-**Voordeel als de speler** zijn eed, zijn god of een van zijn tenets noemt, of laat zien dat zijn moed uit iets anders komt dan geloof. Omarmt hij "Paladennis" trots (*"Pala, voor mijn god. Dennis, voor mijn moeder."*), dan mag dit antwoord meteen als het ene succes van zijn beurt tellen.
+**Sterke repliek:** Dennis noemt een concrete keuze waarin hij iemand beschermde, erkent zijn verlies zonder zich erachter te verschuilen, of stelt Nidhryms vier eeuwen van onverschilligheid tegenover zijn eigen ene daad. Zijn god of eed kan een krachtig antwoord zijn als hij zelf zegt wat die voor hem betekenen.
 
 ---
 
 **⚔️ Orlando Gloom — Wood Elf Fighter**
 
-*Zwak punt: een boskind in een ijsland, een dun zwaard, "slechts hout".*
+*Zwak punt: een woudelf die ver van zijn groene thuis in een levenloos ijsland staat. Zijn achternaam nodigt uit tot een steek over **Bloom** en **Gloom**.*
 
-> **Eerste steek:**
-> *"Orlando Gloom, boomkind uit het groene dal, wat doe jij in mijn witte land?*
-> *Je naam is een weerbericht, je zwaard dun als dennennaald, je moed een twijg in ijskoude hand.*
-> *Hier groeit geen blad, hier groeit geen eer, hier breekt een twijg bij elke wind;*
-> *ga terug naar je mos en je mooie bomen, kleine houtjes-kind."*
+> **Eerste steek:** *"Orlando Gloom, kind van wortel en blad. Ik hoorde 'Orlando' en verwachtte Bloom: een bloem van het elfenwoud. Maar nee, Gloom. Zelfs je naam heeft de lente overgeslagen. In jouw bos groeit een boom na de winter weer recht; hier groeit niets terug. Leg dat dunne zwaard neer, elf: wat blijft er van jouw moed over wanneer het woud je niet kan verbergen?"*
 >
-> **Tweede steek:**
-> *"Gloom: een schaduw die zichzelf zo noemt. Je zwaard heeft nooit een draak gekend, je schild nooit een storm. Een boom die nooit de winter zag, is slechts een dorre vorm."*
+> **Tweede steek:** *"Je hebt een naam voor schaduw en een hand voor geweld. Toch sta je hier te praten. Is dat beheersing, of durf je alleen te slaan wanneer je kunt winnen?"*
 
-**Voordeel als de speler** zijn bos, zijn wortels, zijn vaardigheid of zijn manier van vechten verdedigt, of de draak laat zien dat hout kan branden en dus kan leven. Buigt hij "Gloom" om tot iets sterks (*"de schaduw waarin jouw vijanden sterven"*), dan mag dit antwoord meteen als het ene succes van zijn beurt tellen.
+**Sterke repliek:** Orlando laat zien dat juist het niet trekken van zijn wapen een keuze is, gebruikt zijn woudafkomst als kracht of draait *Gloom* om tot een schaduw die de draak zelf vreest. Een concrete daad uit de tocht weegt zwaarder dan een algemene dreiging.
 
 ---
 
 **🎶 Bartje — Half-Elf Bard**
 
-*Zwak punt: een tong voor alles, een thuis nergens.*
+*Zwak punt: een halfelf die met woorden en muziek haar plaats maakt. Haar naam klinkt haast als haar beroep: Bartje, de bard. Nidhrym wil haar lied bezitten en maakt haar gemengde afkomst tot spot.*
 
-> **Eerste steek:**
-> *"Bartje! Halve elf met een hele mond, je zingt voor wie je betaalt,*
-> *niet mens, niet elf, geen thuis in beide, slechts een echo die vertaalt.*
-> *Je liedjes zijn als sneeuw in mei: ze smelten voor ze iets zijn,*
-> *ik at al honderd barden op; jij smaakt naar vals en wijn."*
+> **Eerste steek:** *"Bartje de bard. Je naam is haast je beroep; hadden je ouders geen tweede talent voor je bedacht? Een halve elf met een hele mond: bij de mensen klinkt je lied te oud, bij de elfen sterft het veel te snel. Zing straks dat ik groot ben en laat de dwergen weg die ik verslond. Of zing nu, terwijl ik voor je zit, één eerlijk couplet over hen."*
 >
-> **Tweede steek:**
-> *"Bartje, zelfs je naam is een verkleinwoord. Zing me een lied, spreker met twee gezichten. Ik hoor een vleiende elf, ik hoor een slimme mens, en geen van beide durft het zelf."*
+> **Tweede steek:** *"Je belooft mijn naam in Greyhawk te zingen. Durf je in hetzelfde lied ook de namen van mijn slachtoffers te noemen?"*
 
-**Voordeel als de speler** zijn gemengde afkomst omarmt, een eigen refrein of vers aan de draak opdraagt, of Nidhrym juist citeert en tegen hem keert. Omarmt hij "Bartje" (*"klein, maar de draak hoort me van hier"*), dan mag dit antwoord meteen als het ene succes van zijn beurt tellen.
+**Sterke repliek:** Bartje eist het recht op om het ware verhaal te zingen, maakt van haar naam meer dan een beroep, omarmt beide kanten van haar afkomst of laat de draak publiek beloven wat in de saga zal staan.
 
 ---
 
 **🏹 Pippin Took-it — Halfling Ranger**
 
-*Zwak punt: klein formaat, "prooi" in plaats van jager.*
+*Zwak punt: een kleine halfling jaagster in een land waar het roofdier onder de sporen loopt. Nidhrym speelt met haar achternaam alsof die een bekentenis is.*
 
-> **Eerste steek:**
-> *"Pippin Took-it! Een naam als een bekentenis. Kruimel met een boogje, kleiner dan de tand in mijn kaak,*
-> *je jaagt op haas en hert, maar hier ben jij de prooi, en dat is geen zaak.*
-> *Ik ruik je al van ver: je geur is thee, gebakken brood en andermans zakken.*
-> *Je sporen zijn zo klein dat zelfs de sneeuw ze niet ziet, maar ik zie ze wel, Took-it, en ik heb vierhonderd winters honger."*
+> **Eerste steek:** *"Pippin Took-it. Een handige achternaam: als er straks iets uit mijn schat verdwijnt, hoef ik de dief niet meer te zoeken. Of is 'Took-it' wat je roept wanneer je op de vlucht slaat? Je boog is kleiner dan één rib van mij. In je groene landen lees je hertenpaden en kruimels die grotere jagers missen. Hier las het monster onder het ijs jouw voetstappen eerder dan jij zijn spoor. Wie was daar de jager, Pippin?"*
 >
-> **Tweede steek:**
-> *"Je volgt sporen, Took-it? Volg dan dit: het spoor van elke jager en elke dief die ooit terugkwam uit mijn fjord. Zoek maar. Het is een kort spoor."*
+> **Tweede steek, als Kelda is verzwolgen:** *"Kelda's spoor eindigt naast het jouwe. Het jouwe loopt door. Welk teken onder het ijs heb je gemist, spoorzoeker?"*
+>
+> **Tweede steek, zonder dat verlies:** *"Je zag genoeg sporen om hier te komen. Waarom eindigen ze dan allemaal voor mijn bek?"*
 
-**Voordeel als de speler** zijn aandacht voor kleine dingen inzet (*"jij hoorde mij komen, ik hoorde jou al aankomen"*), zijn thuis verdedigt, of laat zien dat klein ook snel en dodelijk is. Omarmt hij zijn dief-naam (*"ik nam het, en jij hebt het niet gemerkt"*), dan mag dit antwoord meteen als het ene succes van zijn beurt tellen.
+**Sterke repliek:** Pippin kaatst *Took-it* terug door te zeggen wat zij werkelijk komt halen, noemt een klein detail dat Nidhrym over het hoofd zag, gebruikt haar halfling formaat als voordeel of wijst erop dat juist de grote draak vier eeuwen op één plek vastzit.
 
 ---
 
 **📖 Chad the Mage, the Mage — High Elf Wizard**
 
-*Zwak punt: trots op eeuwen en boeken, "geleerd maar nooit geleefd".*
+*Zwak punt: een hoogelf die lang genoeg leeft om veel te leren, maar met zo weinig charisma spreekt dat zelfs zijn achternaam lijkt te stotteren.*
 
-> **Eerste steek:**
-> *"Chad the Mage, the Mage! Zelfs je titel stottert.*
-> *High Elf met je boeken en je hoge neus, je telt je eeuwen als goud,*
-> *maar wat je weet vult slechts papier, wat ik weet is oud.*
-> *Ik at al zoveel tovenaars, ze smaken naar inkt, naar angst, naar lang gelijk,*
-> *en geen van hen zag het einde komen, hoe wijs ze ook waren, hoe rijk."*
+> **Eerste steek:** *"Chad the Mage, the Mage. Wie je achternaam uitsprak, bleef halverwege steken en begon opnieuw. Geen wonder: zelfs je naam moet oefenen voordat hij een zaal durft toe te spreken. Hoogelf, jij telt jaren in boeken; ik tel geleerden in het ijs. Vertel me wat hun kennis hun opleverde toen de sneeuw hun namen bedekte."*
 >
-> **Tweede steek:**
-> *"Zeg me, Chad: de eerste Mage is je beroep, de tweede je bijnaam. Wie schreef je naam? Jij las honderd jaar en sprak nooit met iets dat terugpraat. Praat dan nu, en ik luister."*
+> **Tweede steek:** *"Spreek nog eens, Mage, the Mage. Ik wil weten of het ijs kraakt van angst, of dat jouw stem dat is. Welk boek leert je de stap te zetten die de vier vóór jou niet terug konden nemen?"*
 
-**Voordeel als de speler** met een geleerde wedervraag komt, naar de Scherf of de Val verwijst, of de draak dwingt tot een raadsel of een feit dat hij niet kent. Verklaart of omarmt hij het dubbele "the Mage" (*"één voor de wereld, één voor mezelf"*), dan mag dit antwoord meteen als het ene succes van zijn beurt tellen.
+**Sterke repliek:** Chad verbindt twee echte aanwijzingen uit het onderzoek, zet zijn gebrek aan charme om in een droog feitelijk antwoord, stelt Nidhrym een vraag die zijn onwetendheid blootlegt of noemt het ene feit dat de draak niet durft te testen: hij bewaakt het licht maar raakt het nooit aan.
 
 ---
 
