@@ -33,7 +33,7 @@ Dit document bevat alleen de twee spellen die deze sessie worden gespeeld. De [G
 | **1 — Begin** | *"We legden aan waar de vaargeul eindigde; het schip kon niet verder."* |
 | **2** | *"De gids koos wit ijs en meed de donkere scheuren waarin het getij bewoog."* |
 | **3** | *"Pas toen de kust achter ons verdween, zagen we licht diep onder onze voeten."* |
-| **4** | *"Iets groots cirkelde om dat licht en hield stil toen ik mijn naam zei."* |
+| **4** | *"Iets groots cirkelde om dat licht en hield stil toen ik ophield met lopen."* |
 | **5 — Einde** | *"Ik schrijf dit terwijl mijn hand koud wordt, en ik weet niet of ik de ochtend nog zie."* |
 
 **De verborgen regel (alleen voor de DM, op een apart papiertje)**
